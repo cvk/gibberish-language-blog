@@ -32,7 +32,8 @@ twitter_username: GibberishUmbra
 
 #cvk cvk
 # Build settings 
-theme: minima
+# Disabled default theme
+#theme: minima
 plugins:
   - jekyll-feed
 
