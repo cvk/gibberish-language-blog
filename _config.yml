@@ -31,8 +31,8 @@ twitter_username: GibberishUmbra
 #github_username:  
 
 #cvk cvk
-# Build settings for Gemfile: gem 'minimal-mistakes-jekyll', '~> 4.20', '>= 4.20.1'
-theme: minimal-mistakes-jekyll
+# Build settings 
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
