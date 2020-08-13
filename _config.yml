@@ -30,8 +30,9 @@ url: "https://cvk.github.io" # the base hostname & protocol for your site, e.g. 
 twitter_username: GibberishUmbra
 #github_username:  
 
-# Build settings
-theme: minima
+#cvk cvk
+# Build settings for Gemfile: gem 'minimal-mistakes-jekyll', '~> 4.20', '>= 4.20.1'
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
