@@ -31,7 +31,7 @@ twitter_username: GibberishUmbra
 #github_username:  
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 
