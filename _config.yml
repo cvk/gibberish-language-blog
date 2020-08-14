@@ -43,7 +43,7 @@ author: gibberish.umbra
 
 # add-ins not from jekyll new
 copyright: "SP" #Sole Proprietorship
-title-logo: /images/gibberish-umbra-title-logo.png
+#title-logo: /images/gibberish-umbra-title-logo.png
 
 # theme: minima # Disabled default theme
 plugins:

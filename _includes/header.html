@@ -12,13 +12,9 @@
       {%- if site.title-logo -%}
         <img src="{{ site.title-logo | relative_url }}" alt="{{ site.title | escape }}"></img>
         {%- else -%}
-        "{{ site.title | escape }}"
+          {{ site.title | escape }}
         {%- endif -%}
     </a>
-      {{ site.title | escape }}</a>
-
-
-    
 
     {%- if page_paths -%}
       <nav class="site-nav">
