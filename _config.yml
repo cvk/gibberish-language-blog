@@ -21,19 +21,31 @@
 # below doesn't update until server restart... cvk cvk
 
 title: Gibberish Umbra's Secret Language blog
-email: speak@gibberish.cyou
+
 description: >- # this means to ignore newlines until "baseurl:"
   The secret gibberish language game has been spoken for decades, yet its origins
   are still unclear. Join the fun and learn to speak gibberish.
+
 baseurl: "/gibberish-language-blog" # the subpath of your site, e.g. /blog
 url: "https://cvk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+email: speak@gibberish.cyou
+youtube_username: channel/UCbhzao2COAXoYIULI4N5acQ
+instagram_username: gibberish.umbra
+facebook_username: gibberish.umbra
 twitter_username: GibberishUmbra
+linkedin_username: chuck-barr-pdx
+
 #github_username:  
 
-#cvk cvk
-# Build settings 
-# Disabled default theme
-#theme: minima
+# added built-ins
+author: gibberish.umbra
+
+# add-ins not from jekyll new
+copyright: "SP" #Sole Proprietorship
+title-logo: /images/gibberish-umbra-title-logo.png
+
+# theme: minima # Disabled default theme
 plugins:
   - jekyll-feed
 
