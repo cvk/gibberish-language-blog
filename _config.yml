@@ -50,6 +50,7 @@ manifest-json: /manifest.json
 # theme: minima # Disabled default theme
 plugins:
   - jekyll-feed
+  - jekyll-sitemap #added sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
