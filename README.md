@@ -1,2 +1,2 @@
-The repository of Gibberish Umbra's Secret Language Blog.
----------------------------------------------------------
+The repository of Gibberish Umbra's Secret Language blog.
+=========================================================
