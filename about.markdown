@@ -51,9 +51,9 @@ For more reading, I’ve put together 3 blog posts about designing your blog. Fe
 
 [HOME](https://gibberish.cyou)<br>
 [FEATURED](https://gibberish.cyou/can-learn-to-speak-gibberish/first-post)<br>
-[HOME](https://gibberish.cyou)<br>
+[HOMEB](https://gibberish.cyou)<br>
 [rss](https://gibberish.cyou/feed.xml)<br>
-[HOME](https://gibberish.cyou)<br>
-[FEATURED](https://gibberish.cyou/can-learn-to-speak-gibberish/first-post)<br>
-[HOME](https://gibberish.cyou)<br>
-[rss](https://gibberish.cyou/feed.xml)<br>
+[HOMEC](https://gibberish.cyou)<br>
+[FEATURED2](https://gibberish.cyou/can-learn-to-speak-gibberish/first-post)<br>
+[HOMED](https://gibberish.cyou)<br>
+[rss3](https://gibberish.cyou/feed.xml)<br>
