@@ -48,3 +48,6 @@ On top of that, it should be easy to navigate if you want people to stick around
 But no one likes ugly websites, and they especially hate websites that need a university degree to navigate. Make it easy for them.
 
 For more reading, I’ve put together 3 blog posts about designing your blog. Feel free to check them through.
+
+[HOME](https://gibberish.cyou)
+[FEATURED](https://gibberish.cyou/can-learn-to-speak-gibberish/first-post)
