@@ -4,14 +4,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   
   <!-- <link rel="manifest" href="/site.webmanifest"> -->
   
+  <link rel="shortcut icon" type="image/x-icon" href="{{ /favicon.ico | relative_url }}">
   <link rel="manifest" href="{{ /site.manifest-json | relative_url }}">
     <!-- See https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android -->
-  <meta name="theme-color" content="#FF00FF">
+  <!-- <meta name="theme-color" content="#FF00FF"> -->
   
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
