@@ -29,8 +29,8 @@ description: >- # this means to ignore newlines until next
   are still unclear. Join the fun and learn to speak gibberish.
 descri-stop: the-new-line # please
 
-baseurl: "gibberish.cyou" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "gibberish.cyou" # the base hostname & protocol for your site, e.g. http://example.com
 
 email: speak@gibberish.cyou
 youtube_username: channel/UCbhzao2COAXoYIULI4N5acQ
