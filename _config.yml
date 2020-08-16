@@ -22,10 +22,10 @@
 
 title: Gibberish Umbra's Secret Language blog
 
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until next
   The secret gibberish language game has been spoken for decades, yet its origins
   are still unclear. Join the fun and learn to speak gibberish.
-description-stop: # no new line please
+descri-stop: the-new-line # please
 
 baseurl: "/gibberish-language-blog" # the subpath of your site, e.g. /blog
 url: "https://cvk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -39,6 +39,8 @@ twitter_username: GibberishUmbra
 
 #github_username:  
 
+
+
 # added built-ins
 author: gibberish.umbra
 
@@ -47,10 +49,11 @@ copyright: "SP" #Sole Proprietorship
 title-logo: /images/gibberish-umbra-title-logo.png
 manifest-json: /manifest.json
 
-# theme: minima # Disabled default theme
+
 plugins:
+  # theme: minima
   - jekyll-feed
-  - jekyll-sitemap #added sitemap
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
