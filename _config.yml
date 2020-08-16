@@ -20,6 +20,8 @@
 #
 # below doesn't update until server restart... cvk cvk
 
+livereload: true
+
 title: Gibberish Umbra's Secret Language blog
 
 description: >- # this means to ignore newlines until next
