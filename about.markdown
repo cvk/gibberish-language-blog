@@ -49,5 +49,7 @@ But no one likes ugly websites, and they especially hate websites that need a un
 
 For more reading, I’ve put together 3 blog posts about designing your blog. Feel free to check them through.
 
-[HOME](https://gibberish.cyou)
+[HOME](https://gibberish.cyou)<br>
 [FEATURED](https://gibberish.cyou/can-learn-to-speak-gibberish/first-post)
+[HOMEr](https://gibberish.cyou)
+[rss](https://gibberish.cyou/feed.xml)
