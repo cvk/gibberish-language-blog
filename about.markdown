@@ -1,12 +1,14 @@
 ---
 layout: default
 title: About
-permalink: /about/
+permalink: /learning-about-gibberish-umbra
 ---
 
 <h1>
 Complex Sentence Generator
-</h1>[jekyllrb.com](https://jekyllrb.com/)
+</h1>
+
+[jekyllrb.com](https://jekyllrb.com/)
 
 Complex Sentence Generator is very easy to use. After typing or pasting content in the first text box, press the convert button to automatically paraphrase the content. This generator can also work as a random sentence generator. Click on the random sentence button to generate random complex sentences and have them paraphrased. This software works as a paraphrase converter for transforming simple and common english into more complex english. It can be useful as a free article spinner due to its' ability to rephrase a large body of text and potentially generate multiple unique versions with each conversion of the same content. With complex sentence generator you can reword content online and rewrite up to 10000 characters or less at a time/per conversion. This should be more than enough for spinning articles, essays or paraphrasing website content for blogs which usually consists of a large amount of content.
 

@@ -1,6 +1,5 @@
 ---
 layout: default
-list_title: "Gibberish Umbra, behind the scenes"
 ---
 
 <div class="home">
@@ -11,7 +10,7 @@ list_title: "Gibberish Umbra, behind the scenes"
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h1 class="post-list-heading">{{ page.list_title | default: "Gibberish Umbra, oops" }}</h1>
+    <h1 class="post-list-heading">{{ page.list_title | default: "Set this in the Front Matter of index.markdown" }}</h1>
         <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
