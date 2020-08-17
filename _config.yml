@@ -22,7 +22,9 @@
 
 livereload: true
 
-title: Gibberish Umbra's Secret Language blog
+title: Learn Speak Secret Gibberish Language Game
+
+tagline:  The idiolect of the Gibberish Language
 
 description: >- # this means to ignore newlines until next
   The secret gibberish language game has been spoken for decades, yet its origins
@@ -38,7 +40,6 @@ instagram_username: gibberish.umbra
 facebook_username: gibberish.umbra
 twitter_username: GibberishUmbra
 #linkedin_username: chuck-barr-pdx
-
 #github_username: cvk
 google_analytics: UA-175444935-1
 
