@@ -34,6 +34,8 @@ descri-stop: the-new-line # please
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gibberish.cyou" # the base hostname & protocol for your site, e.g. http://example.com
 
+timezone: America/Los_Angeles
+
 email: speak@gibberish.cyou
 youtube_username: channel/UCbhzao2COAXoYIULI4N5acQ
 instagram_username: gibberish.umbra
