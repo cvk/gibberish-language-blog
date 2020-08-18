@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "behind the shadow"
-date:   2020-08-12 20:28:41 -0700
-categories: can-learn-to-speak-gibberish
+date: 2020-08-12T20:28:41-07:00
 permalink: /:categories/:title
 ---
-This is the first content.
+
+# behind the shadow
+
+This is the first content.2.
