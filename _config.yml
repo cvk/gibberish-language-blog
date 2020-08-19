@@ -22,7 +22,7 @@
 
 livereload: true
 
-title: Learn Speak Secret Gibberish Language Game
+title: Speak the Secret Gibberish Language Game
 
 tagline:  The idiolect of the Gibberish Language
 
@@ -41,6 +41,9 @@ youtube_username: channel/UCbhzao2COAXoYIULI4N5acQ
 instagram_username: gibberish.umbra
 facebook_username: gibberish.umbra
 twitter_username: GibberishUmbra
+redcircle_username: 
+
+
 #linkedin_username: chuck-barr-pdx
 #github_username: cvk
 google_analytics: UA-175444935-1
@@ -51,7 +54,7 @@ author: gibberish.umbra
 
 # add-ins not from jekyll new
 copyright: "SP" #Sole Proprietorship
-title-logo: /images/gibberish-umbra-title-logo.png
+title-logo: /gibberish-umbra-512-icon.png
 manifest-json: /manifest.json
 
 

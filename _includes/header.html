@@ -10,7 +10,7 @@
     
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
       {%- if site.title-logo -%}
-        <img src="{{ site.title-logo | relative_url }}" alt="{{ site.title | escape }}"></img>
+        <img src="{{ site.title-logo | relative_url }}" alt="{{ site.title | escape }}" class="img-responsive"></img>
         {%- else -%}
           {{ site.title | escape }}
         {%- endif -%}
