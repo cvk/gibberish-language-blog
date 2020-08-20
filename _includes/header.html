@@ -4,16 +4,14 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     
-    <!-- #commented out minima theme orig
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-    --->
+    <!--  original thought  -->
     
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
       {%- if site.title-logo -%}
         <img src="{{ site.title-logo | relative_url }}" alt="{{ site.title | escape }}" class="img-responsive"></img>
         {%- else -%}
           {{ site.title | escape }}
-        {%- endif -%}
+      {%- endif -%}
     </a>
 
     {%- if page_paths -%}
