@@ -1,27 +1,22 @@
 @charset "utf-8";
-
-@font-face {
-  font-family: "myFont";
-  src: url("myFont.woff");
-}
+@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
 
 // Define defaults for each variable.
-
-$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
-$base-font-size:   16px !default;
-$base-font-weight: 400 !default;
+$base-font-family: "Lora", italic, sans-serif;
+$base-font-size:   20px !default;
+$base-font-weight: 100 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       #80FF00 !default;
-$background-color: #000000 !default;
+$text-color:       #FFFF00 !default;
+$background-color: #252525 !default;
 $brand-color:      #0055FF !default;
 
 $grey-color:       #FF0000 !default;
-$grey-color-light: #000000 !default;
-$grey-color-dark:  #828282 !default;
+$grey-color-light: #252525 !default;
+$grey-color-dark:  #80FF00 !default;
 
 $table-text-align: left !default;
 
