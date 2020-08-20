@@ -1,5 +1,10 @@
 @charset "utf-8";
 
+@font-face {
+  font-family: "myFont";
+  src: url("myFont.woff");
+}
+
 // Define defaults for each variable.
 
 $base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
@@ -10,13 +15,13 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       #80FF !default;
+$text-color:       #80FF00 !default;
 $background-color: #000000 !default;
 $brand-color:      #0055FF !default;
 
 $grey-color:       #FF0000 !default;
 $grey-color-light: #000000 !default;
-$grey-color-dark:  #000000 !default;
+$grey-color-dark:  #828282 !default;
 
 $table-text-align: left !default;
 
