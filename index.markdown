@@ -5,3 +5,4 @@
 layout: home
 list_title: Behind the Shadow
 ---
+{{ site.page.list_title }}
