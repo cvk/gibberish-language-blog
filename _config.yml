@@ -22,13 +22,12 @@
 
 livereload: true
 
-title: Speak the Secret Gibberish Language Game
+title: Learn to Speak the Secret Gibberish Language Game
 
 tagline:  The idiolect of the Gibberish Language
 
 description: >- # this means to ignore newlines until next
-  The secret gibberish language game has been spoken for decades, yet its origins
-  are still unclear. Join the fun and learn to speak gibberish.
+  Gibberish Umbra brings light from behind the shadow of the Gibberish lexicon.
 descri-stop: the-new-line # please
 
 baseurl: "" # the subpath of your site, e.g. /blog
