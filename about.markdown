@@ -11,4 +11,4 @@ About Page
 
 
 
-[HOME](https://gibberish.cyou)<br>
+[{{page.title}}](/)<br>

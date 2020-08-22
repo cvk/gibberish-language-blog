@@ -10,6 +10,10 @@
   position: relative;
 }
 
+.umbra-magenta {
+  color: #FF00FF; /* CSS color */
+}
+
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 100;
@@ -186,6 +190,7 @@
 
 .post-list-heading {
   @include relative-font-size(1.75);
+  color: #FF00FF;
 }
 
 .post-list {

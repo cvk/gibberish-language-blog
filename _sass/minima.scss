@@ -1,9 +1,9 @@
 @charset "utf-8";
-$base-font-family: "Lora", italic, sans-serif;
-$base-font-size:   12px !default;
-$base-font-weight: 400 !default;
-$small-font-size:  $base-font-size * 1 !default;
-$base-line-height: 1.25 !default;
+$base-font-family: "Lora", sans-serif;
+$base-font-size:   14px;
+$base-font-weight: 100;
+$small-font-size:  $base-font-size * 0.8 !default;
+$base-line-height: 1.2 !default;
 
 $spacing-unit:     30px !default;
 
