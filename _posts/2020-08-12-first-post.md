@@ -1,7 +1,8 @@
 ---
 title: First Post
 layout: post
-date: 2020-08-12T20:28:41-07:00
-permalink: /:categories/:title
+categories: prime initial
+date: 2020-08-17 20:20:20 -0700
+permalink: /:categories
 ---
 First Post Content.
