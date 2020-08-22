@@ -26,9 +26,7 @@ title: Learn to Speak the Secret Gibberish Language Game
 
 tagline:  The idiolect of the Gibberish Language
 
-description: >- # this means to ignore newlines until next
-  Gibberish Umbra brings light from behind the shadow of the Gibberish lexicon.
-descri-stop: the-new-line # please
+description: Gibberish Umbra brings light from behind the shadow of the Gibberish lexicon.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gibberish.cyou" # the base hostname & protocol for your site, e.g. http://example.com
