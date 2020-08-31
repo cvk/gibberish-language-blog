@@ -1,19 +1,10 @@
 ---
-layout: default
+layout: page
 title: About
 permalink: /learning-about-gibberish-umbra
 ---
-
-<h2>
-About Page
-</h2>
 ***What’s the real story here?***
-
-  
-
-It’s about spreading the secret language of gibberish. That’s true. It’s more than that though.
-
-  
+<br><br>
 
 1. To teach gibberish. It’s fun and unique. Many people know how to do it and use it. Others know but haven’t done it in years! You know who you are! It allows for a new representation of language and requires closer attention to the person or people you are communicating with. You click on another level. If you’ve ever played music with someone and get in rhythm and feel like you're riding the same wave, it's like that. Of course, this can happen with normal speech too, but that encompasses casual talking as well, so the feeling is diluted. I want to share the unique experience that is the gibberish language game.
 
