@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /learning-about-gibberish-umbra
+navworthy: true
 ---
 ***What’s the real story here?***
 <br><br>
