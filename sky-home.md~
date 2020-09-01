@@ -2,7 +2,7 @@
 layout: page
 title: home
 permalink: /home
-navworthy: true
+navworthy: false
 ---
 <h3>Section Title</h3>
 content
