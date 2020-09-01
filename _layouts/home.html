@@ -11,7 +11,7 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
   <h1 class="post-list-heading"></h1>
-    <a href="/learning-about-gibberish-umbra">{{ page.list_title | default: "Set this in the Front Matter of index.markdown" }}</a>
+    <a href="/about">{{ page.list_title | default: "Set this in the Front Matter of index.markdown" }}</a>
     <ul class="post-list">
       {%- for post in site.posts -%}
               <li>

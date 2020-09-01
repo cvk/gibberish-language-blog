@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /learning-about-gibberish-umbra
+title: about
+permalink: /about
 navworthy: true
 ---
 ***What’s the real story here?***
