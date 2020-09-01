@@ -9,11 +9,13 @@
 </head>
 <body>
     <h1>Mountain - Social</h1>
+    
     <h2>Post Data</h2>
     {% for post in site.posts %}
         <p><strong>Post Title: </strong>{{post.title}}</p>
         <p>Post Date: {{post.date}}</p>
     {% endfor %}
+    
     <h2>Page Data</h2>
     {% for page in site.pages %}
         {% if page.title %}
@@ -24,19 +26,22 @@
     
     <h2>Config Social Info & more</h2>
     <p><strong>Twitter Username: </strong>{{site.twitter_username}}</p>
-    {% comment %} useful {% endcomment %}
+    
     <strong>Also, latest post</strong>
     {% for post in site.posts limit:1 %}
         <p>{{post.title}}</p>
     {% endfor %}
+   
    <strong>All other posts:</strong>
     {% for post in site.posts offset:1 %}
         <p>{{post.title}}</p>
     {% endfor %}
+   
    <strong>Only one more:</strong>
     {% for post in site.posts offset:1 limit:1 %}
         <p>{{post.title}}</p>
     {% endfor %}
+   
    <strong>Customer Schema Posts:</strong>
     {% assign schemaPosts = site.posts | where: "schema", "First Wave" %}
     {% for post in schemaPosts %}
@@ -44,6 +49,7 @@
         <strong>{{post.schema}}</strong>
         <p></p>     
     {% endfor %}
+    
     <h2>Posts with Links</h2>
     {% for post in schemaPosts %}
         <p></p>
