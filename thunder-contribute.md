@@ -1,6 +1,6 @@
 ---
 layout: page
-title: contribute
+title: "Thunder (Contribute)"
 permalink: /contribute
 navworthy: true
 ---

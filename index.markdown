@@ -4,4 +4,5 @@
 
 layout: home
 list_title: Behind the Shadow
+title: "Sky (Home)"
 ---

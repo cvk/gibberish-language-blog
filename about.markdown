@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: "Earth (About)"
 permalink: /about
 navworthy: true
 ---

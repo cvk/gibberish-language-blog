@@ -1,6 +1,6 @@
 ---
 layout: page
-title: latest
+title: "Fire (Twitter)"
 permalink: /twitter
 navworthy: true
 ---
