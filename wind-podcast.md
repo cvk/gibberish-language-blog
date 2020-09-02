@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Wind (Podcast)"
+title: "Podcast"
 permalink: /podcast
 navworthy: true
 ---

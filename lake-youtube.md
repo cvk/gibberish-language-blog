@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Lake (Channel)"
+title: "Channel"
 permalink: /youtube
 navworthy: true
 ---

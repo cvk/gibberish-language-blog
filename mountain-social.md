@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Mountain (Social)"
+title: "Social Media"
 permalink: /social-media
 navworthy: true
 ---
