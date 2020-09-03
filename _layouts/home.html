@@ -9,4 +9,5 @@ layout: default
     <h2 class="post-list-heading"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
     {%- if site.show_excerpts -%}{{ post.excerpt }}{%- endif -%}
   </article>
-{%- endfor -%}
+{%- endfor -%}<br><br>
+<p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
