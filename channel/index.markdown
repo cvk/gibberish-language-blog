@@ -1,4 +1,5 @@
 ---
 layout: channel
-title: YouTube Videos - TBD
+title: channel
+navworthy: true
 ---

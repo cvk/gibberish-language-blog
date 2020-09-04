@@ -1,4 +1,5 @@
 ---
 layout: podcast
-title: Podcast Episodes - TBD
+title: podcast
+navworthy: true
 ---
