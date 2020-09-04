@@ -4,5 +4,5 @@
 
 layout: home
 list_title: Behind the Shadow
-title: "Home"
+title: home
 ---

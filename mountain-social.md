@@ -1,8 +1,7 @@
 ---
 layout: page
-title: "Social"
-permalink: /social-media
+title: social
+permalink: /social
 navworthy: true
 ---
 <h3>continue your journey on these media platforms...</h3>
-normal

@@ -1,8 +1,7 @@
 ---
 layout: page
-title: "Contribute"
+title: contribute
 permalink: /contribute
 navworthy: true
 ---
 <h3>anonymous dontations only</h3>
-normal
