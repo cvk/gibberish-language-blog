@@ -1,8 +1,6 @@
 ---
 layout: page
 title: "Channel"
-permalink: /youtube
+permalink: /channel
 navworthy: true
 ---
-<h3>YouTube</h3>
-normal
