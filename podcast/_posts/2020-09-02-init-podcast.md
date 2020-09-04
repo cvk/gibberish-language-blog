@@ -4,6 +4,6 @@ layout: post
 title: "Podcast Episode 000"
 summary: a brief summary
 categories: example new
-permalink: /:categories
+##permalink: /:categories
 ---
 Podcast content.
