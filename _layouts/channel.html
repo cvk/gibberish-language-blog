@@ -2,7 +2,7 @@
 layout: default
 ---
 <p><h2><strong> {{ page.title }}</strong></h2></p>
-{% assign pillarPosts = site.posts | where: "pillar-type", "podcast" %}
+{% assign pillarPosts = site.posts | where: "pillar-type", "channel" %}
 {% for post in pillarPosts %}
   <br>
   <article>

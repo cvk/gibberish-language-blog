@@ -1,10 +1,10 @@
 ---
+pillar-type: podcast
 layout: post
 title: podcast-ep00
-date: 2020-08-17 20:20:20 -0700
-categories: exit-to channel
+summary: a brief summary
+categories: example new
 permalink: /:categories
-schema: "First Wave"
 ---
 This is the first content.
 
