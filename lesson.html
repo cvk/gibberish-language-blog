@@ -42,7 +42,7 @@
         <p>{{post.title}}</p>
     {% endfor %}
    
-   <strong>Customer Schema Posts:</strong>
+   <strong>Schema Posts:</strong>
     {% assign schemaPosts = site.posts | where: "schema", "First Wave" %}
     {% for post in schemaPosts %}
         <p>{{post.title}}</p>

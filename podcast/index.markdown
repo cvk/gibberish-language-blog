@@ -1,4 +1,4 @@
 ---
 layout: podcast
-title: PodTitle
+title: Podcast Episodes - Soon
 ---

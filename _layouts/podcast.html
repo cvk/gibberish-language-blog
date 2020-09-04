@@ -1,12 +1,13 @@
 ---
 layout: default
 ---
-<h1>{{ page.title | escape }}</h1>
-{%- for post in site.posts -%}
+<p><h2><strong> {{ page.title }}</strong></h2></p>
+{% assign schemaPosts = site.posts | where: "schema", "First Wave" %}
+{% for post in schemaPosts %}
   <br>
   <article>
     <span class="post-meta">{{ post.date | date: site.minima.date_format }}</span>
     <h2 class="post-list-heading"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
     {%- if site.show_excerpts -%}{{ post.excerpt }}{%- endif -%}
   </article>
-{%- endfor -%}
+{%- endfor -%}<br><br>
