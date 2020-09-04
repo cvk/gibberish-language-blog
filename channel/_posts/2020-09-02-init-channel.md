@@ -3,7 +3,7 @@ pillar-type: channel
 layout: post
 title: "Blower Fan Ambient Sleeping Noise"
 summary: a brief summary
-categories: example new
+categories: experimental media
 permalink: /:categories
 ---
 <p>Experimental Media</p>
