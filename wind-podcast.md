@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "Podcast"
-permalink: /podcast
+##permalink: /podcast
 navworthy: true
 ---
