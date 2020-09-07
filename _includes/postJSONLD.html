@@ -1,0 +1,54 @@
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "{{ page.title }}",
+        "description": "{{ page.excerpt }}",
+        "image": [
+            {% if page.ogimageoff %}
+
+            {% elsif page.ogimage %}
+                "{{page.ogimage}}"
+            {% elsif page.image %}
+                "{{page.image}}"
+            {% else %}
+                "https://gibberish.cyou/gibberish-umbra-512-icon.png"
+            {% endif %}
+        ],
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
+        },
+        "datePublished": "{{page.date}}",
+        "dateModified": "{% if page.modified %}{{page.modified}}{% else %}{{page.date}}{% endif %}",
+        "isAccessibleForFree": "True",
+        "isPartOf": {
+            "@type": ["CreativeWork", "Product", "Blog"],
+            "name": "Learn the Secret Gibberish Language Game",
+            "productID": "gibberish.cyou"
+        },
+        "license": "https://creativecommons.org/licenses/by-nd/4.0/",
+        "author": {
+            "@type": "Person",
+            "name": "Gibberish Umbra",
+            "description": "Gibberish Umbra is an alter ego.",
+            "sameAs": "https://twitter.com/GibberishUmbra",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://gibberish.cyou/gibberish-umbra-512-icon.png"
+            },
+            "publishingPrinciples": "https://gibberish.cyou/about"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Gibberish Umbra",
+            "description": "Experimental Media Collection by Gibberish Umbra",
+            "sameAs": "https://gibberish.cyou",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://gibberish.cyou/gibberish-umbra-512-icon.png"
+            },
+            "publishingPrinciples": "https://gibberish.cyou/about"
+        }
+    }
+</script>

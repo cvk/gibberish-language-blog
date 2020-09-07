@@ -16,6 +16,16 @@
 {%- endif -%}
     
 {%- seo -%}
+
+{% if page.title %}
+    {% if page.jsonld %}
+        {% include {{page.jsonld}}.html %}
+    {% else %}
+        {% include postJSONLD.html %}
+    {% endif %}
+{% else %}
+    {% include homeJSONLD.html %}
+{% endif %}
     
 </head>
   

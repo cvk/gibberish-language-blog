@@ -1,0 +1,24 @@
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Gibberish Umbra",
+        "description": "{{ page.excerpt }}",
+        "disambiguatingDescription": "An experimental media content creator.",
+        "image": [
+            {% if page.ogimagenull %}
+
+            {% elsif page.ogimage %}
+                "{{page.ogimage}}"
+            {% elsif page.image %}
+                "{{page.image}}"
+            {% else %}
+                "https://gibberish.cyou/gibberish-umbra-512-icon.png"
+            {% endif %}
+        ],
+        "givenName": "Umbra",
+        "familyName": "Gibberish",
+        "alternateName": "gibberish.umbra",
+        "publishingPrinciples": "https://gibberish.cyou/about"
+    }
+</script>
