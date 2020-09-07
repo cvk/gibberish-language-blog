@@ -28,6 +28,8 @@ url: "https://gibberish.cyou" # the base hostname & protocol for your site, e.g.
 
 timezone: America/Los_Angeles
 
+logo: /gibberish-umbra-512-icon.png
+
 email: speak@gibberish.cyou
 youtube_username: channel/UCbhzao2COAXoYIULI4N5acQ
 instagram_username: gibberish.umbra
@@ -35,6 +37,21 @@ facebook_username: gibberish.umbra
 twitter_username: GibberishUmbra
 redcircle_username: 
 
+twitter:
+  username: GibberishUmbra
+  card: summary
+
+facebook:
+  app_id: 609315026396624
+  publisher: 113082303650155
+
+social:
+  name: Gibberish Umbra
+  links:
+    - https://twitter.com/GibberishUmbra
+    - https://www.facebook.com/gibberish.umbra
+    - https://www.instagram.com/gibberish.umbra
+    - https://www.youtube.com/channel/UCbhzao2COAXoYIULI4N5acQ
 
 #linkedin_username: chuck-barr-pdx
 #github_username: cvk
@@ -54,6 +71,7 @@ plugins:
   # theme: minima
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 minima:
   # skin: dark
