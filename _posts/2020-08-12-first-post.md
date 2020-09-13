@@ -1,9 +1,11 @@
 ---
+pillar-type: written
+date: 2020-09-09 20:20:20 -0700
 layout: post
-title: First Post
-categories: to-find-a-beginning
-date: 2020-08-18 20:20:20 -0700
+title: prime the initial
+categories: gibberish how-to-say 
 permalink: /:categories
-summary: Summary of the article
+summary: how to use this website
+marquee-words: Key Words
 ---
-First Post Content.
+{{ site.data.meta-data.day-link }}

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: tweets
+title: news
 permalink: /twitter
 navworthy: true
 ---

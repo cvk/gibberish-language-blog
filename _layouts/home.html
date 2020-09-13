@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-<h1>{{ page.title | escape }}</h1>
+<p><h1 class="post-title">companion content!</h1></p>
 {%- for post in site.posts -%}
   <br>
   <article>
-    <span class="post-meta">{{ post.date | date: site.minima.date_format }}</span>
+    <span class="post-meta">{{ post.date | date: site.minima.date_format }}</span> {{ post.summary }}
     <h2 class="post-list-heading"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
     {%- if site.show_excerpts -%}{{ post.excerpt }}{%- endif -%}
   </article>

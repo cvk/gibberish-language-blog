@@ -1,6 +1,6 @@
 ---
 layout: page
-title: social
+title: more
 permalink: /social
 navworthy: true
 ---
