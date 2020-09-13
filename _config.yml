@@ -77,16 +77,16 @@ minima:
   # skin: dark
   date_format: "%y%j"
   
-##  
-##header_pages:
-##  - about.markdown
-##  - channel/index.markdown
-##  - podcast/index.markdown
-##  - written/index.markdown
-##  - twitter.md
-##  - social.md
-##  
-##
+  
+header_pages:
+  - about.markdown
+  - channel/index.markdown
+  - podcast/index.markdown
+  - written/index.markdown
+  - twitter.md
+  - social.md
+  
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # exclude:
