@@ -6,7 +6,7 @@
 {%- assign nav_usable_page = site.pages | where: "navworthy", true | default: false -%}
         
 {%- if site.title-logo -%}
-        <a class="site-title" rel="author" href="{{ site.url }}"><img class="img-responsive" src="{{ site.title-logo | relative_url }}" alt="{{ site.title | escape }}"> </a>  
+        <a class="site-title" rel="author" href="{{ site.url }}"><img class="img-responsive" src="{{ site.title-logo | relative_url }}" alt="{{ site.title | escape }}"></a>  
 {%- else -%}
   {{ site.title | escape }}
 {%- endif -%}
