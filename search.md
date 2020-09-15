@@ -1,3 +1,10 @@
+---
+layout: page
+title: search
+permalink: /search
+navworthy: false
+---
+
 <!-- Html Elements for Search -->
 <br>
 <div id="search-container">
