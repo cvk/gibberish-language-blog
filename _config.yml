@@ -12,8 +12,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-#
-# below doesn't update until server restart... cvk cvk
 
 livereload: true
 
@@ -66,18 +64,14 @@ copyright: "SP" #Sole Proprietorship
 title-logo: /gibberish-umbra-512-icon.png
 manifest-json: /manifest.json
 
-
 plugins:
-  # theme: minima
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
 
 minima:
-  # skin: dark
   date_format: "%y%j"
-  
-  
+
 header_pages:
   - about.markdown
   - channel/index.markdown
