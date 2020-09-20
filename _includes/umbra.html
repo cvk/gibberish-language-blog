@@ -1,0 +1,10 @@
+            
+            <ul class="umbra-media-list">
+              {%- if site.youtube_username -%}  <a href="https://youtube.com/{{ site.youtube_username| cgi_escape | escape }}">         <svg class="yt-icon"> <use xlink:href="{{ '/assets/umbra-social-icons.svg#youtube' | relative_url }}">   </use></svg></a>{%- endif -%}
+              {%- if site.instagram_username -%}<a href="https://instagram.com/{{ site.instagram_username| cgi_escape | escape }}">     <svg class="ig-icon"> <use xlink:href="{{ '/assets/umbra-social-icons.svg#instagram' | relative_url }}"> </use></svg></a>{%- endif -%}
+              {%- if site.facebook_username -%} <a href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}">   <svg class="fb-icon"> <use xlink:href="{{ '/assets/umbra-social-icons.svg#facebook' | relative_url }}">  </use></svg></a>{%- endif -%}
+              {%- if site.twitter_username -%}  <a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}">     <svg class="tw-icon"> <use xlink:href="{{ '/assets/umbra-social-icons.svg#twitter' | relative_url }}">   </use></svg></a>{%- endif -%}
+              {%- if site.linkedin_username -%} <a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}"><svg class="in-icon"> <use xlink:href="{{ '/assets/umbra-social-icons.svg#linkedin' | relative_url }}">  </use></svg></a>{%- endif -%}
+              {%- if site.rss -%}               <a href="{{ 'feed.xml' | relative_url }}">                                              <svg class="rss-icon"><use xlink:href="{{ '/assets/umbra-social-icons.svg#rss' | relative_url }}">       </use></svg></a>{%- endif -%}
+            </ul>
+            
