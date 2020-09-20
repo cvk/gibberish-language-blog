@@ -6,7 +6,7 @@
       {%- if site.twitter_username -%}   <a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}">      <svg class="tw-icon"> <use xlink:href="{{ '/assets/umbra-social-icons.svg#twitter' | relative_url }}">   </use></svg></a>{%- endif -%}
       {%- if site.linkedin_username -%}  <a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}"> <svg class="in-icon"> <use xlink:href="{{ '/assets/umbra-social-icons.svg#linkedin' | relative_url }}">  </use></svg></a>{%- endif -%}
       {%- if site.snapchat_username -%}  <a href="https://www.snapchat.com/add/{{ site.snapchat_username| cgi_escape | escape }}"><svg class="sn-icon"> <use xlink:href="{{ '/assets/umbra-social-icons.svg#snapchat' | relative_url }}">  </use></svg></a>{%- endif -%}
-      {%- if site.data.brand.magifier -%}<a href="/search">                                                                     <svg class="mag-icon"><use xlink:href="{{ '/assets/umbra-social-icons.svg#magnifier' | relative_url }}"> </use></svg></a>{%- endif -%}
+      {%- if site.data.brand.magifier -%}<a href="/search">                                                                       <svg class="mag-icon"><use xlink:href="{{ '/assets/umbra-social-icons.svg#magnifier' | relative_url }}"> </use></svg></a>{%- endif -%}
       {%- if site.rss -%}                <a href="{{ 'feed.xml' | relative_url }}">                                               <svg class="rss-icon"><use xlink:href="{{ '/assets/umbra-social-icons.svg#rss' | relative_url }}">       </use></svg></a>{%- endif -%}
     </span>
 </div>
