@@ -241,6 +241,16 @@ pre {
   fill: #80FF00;
 }
 
+.ap-icon {
+  display: inline;
+  vertical-align: text-bottom;
+  fill: #8000FF;
+}
+
+.ap-icon:hover {
+  fill: #80FF00;
+}
+
 .ig-icon {
   display: inline;
   vertical-align: text-bottom;
@@ -291,10 +301,25 @@ pre {
   fill: #80FF00;
 }
 
+.mag-icon {
+  display: inline;
+  vertical-align: text-bottom;
+  fill: #80FF00;
+}
 
+.mag-icon:hover {
+  fill: #8000FF;
+}
 
+.map-icon {
+  display: inline;
+  vertical-align: text-bottom;
+  fill: #80FF00;
+}
 
-
+.map-icon:hover {
+  fill: #8000FF;
+}
 
 .social-media-list {
   li + li {
