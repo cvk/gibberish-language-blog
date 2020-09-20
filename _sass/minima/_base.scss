@@ -119,6 +119,13 @@ a {
       text-decoration: underline;
     }
   }
+  .umbra-media-list &:hover {
+    text-decoration: none;
+
+    .username {
+      text-decoration: underline;
+    }
+  }
 }
 
 
@@ -224,14 +231,68 @@ pre {
   vertical-align: text-top;
 }
 
+.yt-icon {
+  display: inline;
+  vertical-align: text-bottom;
+  fill: #F00;
+}
 
+.yt-icon:hover {
+  fill: #80FF00;
+}
 
+.ig-icon {
+  display: inline;
+  vertical-align: text-bottom;
+  fill: #F0F;
+}
+
+.ig-icon:hover {
+  fill: #80FF00;
+}
+
+.fb-icon {
+  display: inline;
+  vertical-align: text-bottom;
+  fill: #05F;
+}
+
+.fb-icon:hover {
+  fill: #80FF00;
+}
+
+.rss-icon {
+  display: inline;
+  vertical-align: text-bottom;
+  fill: #FF8000;
+}
+
+.rss-icon:hover {
+  fill: #80FF00;
+}
+
+.tw-icon {
+  display: inline;
+  vertical-align: text-bottom;
+  fill: #0FF;
+}
+
+.tw-icon:hover {
+  fill: #80FF00;
+}
 
 
 .social-media-list {
   li + li {
     padding-top: 5px;
   }
+}
+
+.umbra-media-list {
+  display:inline;
+  margin: 0;
+  padding: 0;
+  list-style: none
 }
 
 
