@@ -37,7 +37,7 @@ self.addEventListener("activate", function(e){
     caches.keys().then(function(cacheNames){
       return Promise.all(
         cacheNames.filter(function(cacheName){
-          return cacheName.startsWith("gdad-s-river-static-")
+          return cacheName.startsWith("umbra-helper-")
             && cacheName != staticCacheName;
         }).map(function(cacheName){
           return caches.delete(cacheName);
