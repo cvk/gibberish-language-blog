@@ -1,3 +1,4 @@
+<main>
 <div class="moar">
     <span class="umbra-media-list">
       {%- if site.youtube_username -%}   <a href="https://youtube.com/{{ site.youtube_username| cgi_escape | escape }}">          <svg class="yt-icon"> <use xlink:href="{{ '/assets/umbra-social-icons.svg#youtube' | relative_url }}">   </use></svg></a>{%- endif -%}
@@ -8,7 +9,8 @@
       {%- if site.linkedin_username -%}  <a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}"> <svg class="in-icon"> <use xlink:href="{{ '/assets/umbra-social-icons.svg#linkedin' | relative_url }}">  </use></svg></a>{%- endif -%}
       {%- if site.snapchat_username -%}  <a href="https://www.snapchat.com/add/{{ site.snapchat_username| cgi_escape | escape }}"><svg class="sn-icon"> <use xlink:href="{{ '/assets/umbra-social-icons.svg#snapchat' | relative_url }}">  </use></svg></a>{%- endif -%}
       {%- if site.data.brand.magnifier -%}<a href="/search">                                                                      <svg class="mag-icon"><use xlink:href="{{ '/assets/umbra-social-icons.svg#magnifier' | relative_url }}"> </use></svg></a>{%- endif -%}
-      {%- if site.data.brand.sitemap -%} <a href="/404.html">                                                                    <svg class="map-icon"><use xlink:href="{{ '/assets/umbra-social-icons.svg#map' | relative_url }}">       </use></svg></a>{%- endif -%}
+      {%- if site.data.brand.sitemap -%} <a href="/404.html">                                                                     <svg class="map-icon"><use xlink:href="{{ '/assets/umbra-social-icons.svg#map' | relative_url }}">       </use></svg></a>{%- endif -%}
       {%- if site.rss -%}                <a href="{{ 'feed.xml' | relative_url }}">                                               <svg class="rss-icon"><use xlink:href="{{ '/assets/umbra-social-icons.svg#rss' | relative_url }}">       </use></svg></a>{%- endif -%}
     </span>
 </div>
+</main>
