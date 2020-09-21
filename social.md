@@ -1,5 +1,5 @@
 ---
-layout: exit
+layout: default
 title: more
 permalink: /social
 navworthy: true
