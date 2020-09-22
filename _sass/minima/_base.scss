@@ -329,15 +329,15 @@ pre {
 
 .umbra-media-list {
   svg {
-    width: 150px;
+    width: 128px;
   }
-  display:inline;
+  display: inherit;
 }
 
 .moar {
-  margin: auto;
-  width: 67%;
-  padding: 10px;
+  width: auto !important;
+  height: auto !important;
+  padding-left: 11%
 }
 
 
