@@ -1,5 +1,6 @@
-<main>
+<div alt="">
 {%- include_relative /assets/umbra-social-icons.svg -%}
+</div>
   <div class="umbra-media-list">
     {%- if site.youtube_username -%}       <div><a href="https://youtube.com/{{ site.youtube_username| cgi_escape | escape }}">             <svg class="yt-icon">   <use href="#youtube"/>     </svg></a></div>{%- endif -%}
     {%- if site.apple_username -%}         <div><a href="">                                                                                 <svg class="ap-icon">   <use href="#apple"/>       </svg></a></div>{%- endif -%}
@@ -12,4 +13,4 @@
     {%- if site.data.brand.sitemap -%}     <div><a href="/404.html">                                                                        <svg class="map-icon">  <use href="#map"/>         </svg></a></div>{%- endif -%}
     {%- if site.rss -%}                    <div><a href="{{ 'feed.xml' | relative_url }}">                                                  <svg class="rss-icon">  <use href="#rss"/>         </svg></a></div>{%- endif -%}
   </div>
-</main>
+
