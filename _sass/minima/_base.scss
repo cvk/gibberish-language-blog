@@ -1,5 +1,5 @@
 /**
- * Reset some basic elements
+ * default theme; Reset some basic elements
  */
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
@@ -8,10 +8,8 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
-
-
 /**
- * Basic styling
+ * default theme; Basic styling
  */
 body {
   font: $base-font-weight $base-font-family;
@@ -29,7 +27,7 @@ body {
 }
 
 /**
- * Set `margin-bottom` to maintain vertical rhythm
+ * default theme; Set `margin-bottom` to maintain vertical rhythm
  */
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
@@ -41,13 +39,11 @@ ul, ol, dl, figure,
 
 
 /**
- * `main` element
+ * default theme; `main` element
  */
 main {
   display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
 }
-
-
 
 /**
  * Images
@@ -56,8 +52,6 @@ img {
   max-width: 100%;
   vertical-align: middle;
 }
-
-
 
 /**
  * Figures
@@ -233,12 +227,17 @@ pre {
 
 .umbra-media-list {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  grid-auto-rows: minmax(10px, auto);
-  grid-gap: 1px;
-  width:100%;
-  max-width: 900px;
-  margin: 0em auto;
+  flex: auto;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  grid-auto-rows: minmax(140px, auto);
+  grid-gap: 15px;
+}
+
+
+.umbra-vector-blob {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
 }
 
 .yt-icon {
