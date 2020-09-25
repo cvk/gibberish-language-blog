@@ -3,7 +3,7 @@ var VERSION = 'version_01'
 var CACHE_NAME = APP_PREFIX + VERSION
 var URLS = [                           
   '/',                    
-  '/index.html'           
+  '/index.html',           
   '/manifest.json'
 ]
 
