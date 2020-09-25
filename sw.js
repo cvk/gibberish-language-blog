@@ -4,7 +4,12 @@ var CACHE_NAME = APP_PREFIX + VERSION
 var URLS = [                           
   '/',                    
   '/index.html',           
-  '/manifest.json'
+  '/manifest.json',
+  '/assets/main.css',
+  '/gibberish-umbra-144-icon.png',
+  '/gibberish-umbra-512-icon.png',
+  '/assets/minima-social-icons.svg',
+  '/favicon.ico'
 ]
 
 // Respond with cached resources
