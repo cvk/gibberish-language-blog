@@ -312,24 +312,44 @@ pre {
   fill: #80FF00;
 }
 
-.mag-icon {
+.tk-icon {
+  display: inline;
+  vertical-align: text-bottom;
+  fill: #FFFF00;
+}
+
+.tk-icon:hover {
+  fill: #80FF00;
+}
+
+.sp-icon {
   display: inline;
   vertical-align: text-bottom;
   fill: #80FF00;
 }
 
-.mag-icon:hover {
+.sp-icon:hover {
   fill: #8000FF;
+}
+
+.mag-icon {
+  display: inline;
+  vertical-align: text-bottom;
+  fill: #555555;
+}
+
+.mag-icon:hover {
+  fill: #80FF00;
 }
 
 .map-icon {
   display: inline;
   vertical-align: text-bottom;
-  fill: #80FF00;
+  fill: #558055;
 }
 
 .map-icon:hover {
-  fill: #8000FF;
+  fill: #80FF00;
 }
 
 .social-media-list {
