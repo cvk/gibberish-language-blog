@@ -4,6 +4,7 @@ var CACHE_NAME = APP_PREFIX + VERSION
 var URLS = [                           
   '/',                    
   '/index.html'           
+  '/manifest.json'
 ]
 
 // Respond with cached resources
