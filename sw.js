@@ -9,7 +9,8 @@ var URLS = [
   '/gibberish-umbra-144-icon.png',
   '/gibberish-umbra-512-icon.png',
   '/assets/minima-social-icons.svg',
-  '/favicon.ico'
+  '/favicon.ico',
+  '/js/search.js'
 ]
 
 // Respond with cached resources
