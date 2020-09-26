@@ -10,4 +10,4 @@ permalink: /:categories
 <p>Experimental Media</p>
 Sound masking
 
-[![Experimental Media](http://img.youtube.com/vi/mUCuTO-vktc/0.jpg)](http://www.youtube.com/watch?v=mUCuTO-vktc "Blower Fan Ambient Sleeping Noise")
+[![Experimental Media](https://img.youtube.com/vi/mUCuTO-vktc/0.jpg)](https://www.youtube.com/watch?v=mUCuTO-vktc "Blower Fan Ambient Sleeping Noise")
