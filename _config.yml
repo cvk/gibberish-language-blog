@@ -37,7 +37,9 @@ snapchat_username: gibberish.umbra
 redcircle_username:
 apple_username: ""
 spotify_username: ""
-tiktok_username: ""
+tiktok_username: "@gibberish.umbra"
+#linkedin_username: ""
+#github_username: cvk
 rss: ""
 
 
@@ -57,8 +59,6 @@ social:
     - https://www.instagram.com/gibberish.umbra
     - https://www.youtube.com/channel/UCbhzao2COAXoYIULI4N5acQ
 
-linkedin_username: ""
-#github_username: cvk
 google_analytics: UA-175444935-1
 
 

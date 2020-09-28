@@ -8,7 +8,7 @@ var URLS = [
   '/assets/main.css',
   '/gibberish-umbra-144-icon.png',
   '/gibberish-umbra-512-icon.png',
-  '/assets/minima-social-icons.svg',
+  '/assets/feed-tools-icons.svg',
   '/favicon.ico',
   '/js/search.js'
 ]

@@ -106,7 +106,7 @@ a {
     color: #FF00FF;
   }
 
-  .social-media-list &:hover {
+  .feed-tools-list &:hover {
     text-decoration: none;
 
     .username {
@@ -352,7 +352,7 @@ pre {
   fill: #80FF00;
 }
 
-.social-media-list {
+.feed-tools-list {
   li + li {
     padding-top: 5px;
   }
