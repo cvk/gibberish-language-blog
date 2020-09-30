@@ -8,6 +8,6 @@
     <div class="wrapper"> {{ content }}</div>
   </main><!-- end main -->
   {%- include footer.html -%}
-  {%- include serviceWorker.html -%}
+  {%- if jekyll.environment == 'production' -%}{%- include serviceWorker.html -%}{%- endif -%}
 </body>
 </html>

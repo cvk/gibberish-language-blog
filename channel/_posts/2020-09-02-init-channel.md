@@ -6,6 +6,7 @@ title: "Blower Fan Ambient Sleeping Noise"
 summary: a brief video summary
 categories: experimental-media
 permalink: /:categories
+excerpt: "Holla"
 ---
 <p>Experimental Media</p>
 Sound masking

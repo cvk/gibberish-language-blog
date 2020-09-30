@@ -21,6 +21,8 @@ tagline:  The idiolect of the Gibberish Language
 
 description: Gibberish Umbra brings light from behind the shadow of the Gibberish lexicon.
 
+#show_excerpts: ""
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gibberish.cyou" # the base hostname & protocol for your site, e.g. http://example.com
 

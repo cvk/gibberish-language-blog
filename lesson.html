@@ -55,8 +55,10 @@
         <p></p>
         <a href="{{post.url | relative_url}}">{{post.title}}</a>        
     {% endfor %}
-
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfWqCYQrQW3GRBBLpVuL61OQsqrbaBNaf0jEuoJ4PRh7ewVfw/viewform?embedded=true" width="640" height="1040" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
+    
+    {% for file in site.static_files %}
+      {{ file.path }} <br>
+    {% endfor %}
+    
 </body>
 </html>
