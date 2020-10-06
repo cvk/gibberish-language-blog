@@ -1,6 +1,6 @@
 ---
 layout: page
-title: search
+title: Search
 permalink: /search
 navworthy: false
 ---

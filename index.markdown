@@ -4,6 +4,6 @@
 
 layout: home
 list_title: Gibberish Umbra's Companion Content
-title: home
+title: Gibberish Umbra
 date: 2020-03-07 20:20:20 -0700
 ---

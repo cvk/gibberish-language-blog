@@ -1,11 +1,10 @@
-    
-    <footer class="site-footer h-card">
-      <div class="wrapper">
-        <h2 class="footer-heading">{{ site.title | escape }}</h2>
-        <div class="footer-col-wrapper">
-          <div class="footer-col footer-col-1">
-            <ul class="contact-list">
-              <li class="p-name">
+<footer class="site-footer h-card">
+  <div class="wrapper">
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
                 {%- if site.author -%}
                 {{ site.author | escape }}
                 {%- else -%}
@@ -13,24 +12,17 @@
                 {%- endif -%}
               </li>
               {%- if site.email -%}
-              <li>
-                <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
-              </li>
+              <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
               {%- endif -%}
               {%- if site.copyright -%}
               <li>
-                &copy; {{ site.copyright }} {{ 'now' | date: "%Y" }}
+                &#169; {{ site.copyright }} {{ 'now' | date: "%Y" }}
               </li>
               {%- endif -%}
             </ul>
-          </div>  
-          <div class="footer-col footer-col-2">
-            {%- include feed-tools.html -%}
-          </div>
-          <div class="footer-col footer-col-3">
-            {{- site.description | escape -}}
-          </div>
-        </div>
       </div>
-    </footer>
-  
+      <div class="footer-col footer-col-2">{%- include feed-tools.html -%}</div>
+      <div class="footer-col footer-col-3">{{- site.description | escape -}}</div>
+    </div>
+  </div>
+</footer>

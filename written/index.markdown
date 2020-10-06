@@ -1,5 +1,5 @@
 ---
 layout: written
-title: written
+title: Written
 navworthy: true
 ---

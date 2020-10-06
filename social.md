@@ -1,6 +1,6 @@
 ---
 layout: default
-title: social
+title: Social
 permalink: /social
 navworthy: true
 marquee-words: social youtube

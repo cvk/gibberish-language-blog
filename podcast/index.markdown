@@ -1,5 +1,5 @@
 ---
 layout: podcast
-title: podcast
+title: Podcast
 navworthy: true
 ---

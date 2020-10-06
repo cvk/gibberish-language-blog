@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: Questions
 permalink: /about
 jsonld: jsonld-id
 navworthy: true
