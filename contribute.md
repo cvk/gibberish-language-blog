@@ -1,6 +1,6 @@
 ---
 layout: page
-title: contribute
+title: Contribute
 permalink: /contribute
 navworthy: false
 ---
