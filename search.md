@@ -9,6 +9,7 @@ navworthy: false
 <br>
 <div id="search-container">
 <input type="text" id="search-input" placeholder="search...">
+<hr>
 <ul id="results-container"></ul>
 </div>
 <br>
