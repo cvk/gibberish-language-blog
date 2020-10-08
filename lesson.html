@@ -8,12 +8,14 @@
     <title>Lesson Page</title>
 </head>
 <body>
-    <h1>Mountain - Social</h1>
+    <h1>Mountain - Social h1</h1>
+    <br>
+    {{ post.date  }}
     
     <h2>Post Data</h2>
     {% for post in site.posts %}
         <p><strong>Post Title: </strong>{{post.title}}</p>
-        <p>Post Date: {{post.date}}</p>
+        <p>Post Date: {{post.date| date: "%A %B %e"}}</p>
     {% endfor %}
     
     <h2>Page Data</h2>

@@ -83,8 +83,8 @@ minima:
 header_pages:
   - about.markdown
   - channel/index.markdown
-  - podcast/index.markdown
   - written/index.markdown
+  - podcast/index.markdown
   - social.md
   - twitter.md
 
