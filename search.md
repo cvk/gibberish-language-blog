@@ -15,7 +15,7 @@ navworthy: false
 [![nc](/images/cc-icons/nc.svg "Attribution-NonCommercial-NoDerivatives 4.0 International"){:height="36px" width="36px"}](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode "by-nc-nd")
 [![nd](/images/cc-icons/nd.svg "Attribution-NonCommercial-NoDerivatives 4.0 International"){:height="36px" width="36px"}](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode "by-nc-nd")
 
-_Individual remix licenses are free by request._
+_Remix licenses are free by request._
 
 <!-- Script pointing to search-script.js -->
 <script src="/js/search.js" type="text/javascript"></script>
