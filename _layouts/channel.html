@@ -6,7 +6,7 @@ layout: default
 {% for post in pillarPosts %}
   <br>
   <article>
-    <span class="post-meta">{{ post.date | date: site.minima.date_format }}</span>
+    <span class="post-meta">{{ post.date | date: site.minima.date_format }} &#8226; {{ post.date | date: "%e %b %Y" }}</span> {{ post.summary }}
     <h2 class="post-list-heading"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
     {%- if site.show_excerpts -%}{{ post.excerpt }}{%- endif -%}
   </article>
