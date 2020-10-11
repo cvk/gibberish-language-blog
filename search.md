@@ -8,7 +8,7 @@ navworthy: false
 <input type="text" id="search-input" placeholder="keyword, date...">
 <p>
 <ul id="results-container"></ul>
-</p>
+</p><br>
 </div>
 [![cc](/images/cc-icons/cc.svg "Attribution-NonCommercial-NoDerivatives 4.0 International"){:height="36px" width="36px"}](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode "by-nc-nd")
 [![by](/images/cc-icons/by.svg "Attribution-NonCommercial-NoDerivatives 4.0 International"){:height="36px" width="36px"}](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode "by-nc-nd")
