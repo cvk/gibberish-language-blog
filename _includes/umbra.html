@@ -2,7 +2,7 @@
 {%- include_relative /assets/umbra-social-icons.svg -%}
 </div>
   <div class="umbra-media-list">
-    {%- if site.youtube_username -%}       <div title="YouTube Channel" class="umbra-vector-blob"><a href="https://youtube.com/{{ site.youtube_username| cgi_escape | escape }}">             <svg class="yt-icon">   <use href="#youtube"/>     </svg></a></div>{%- endif -%}
+    {%- if site.youtube_username -%}       <div title="YouTube Channel" class="umbra-vector-blob"><a href="https://youtube.com/{{ site.youtube_username }}">                                  <svg class="yt-icon">   <use href="#youtube"/>     </svg></a></div>{%- endif -%}
     {%- if site.apple_username -%}         <div title="Apple Podcasts"  class="umbra-vector-blob"><a href="">                                                                                 <svg class="ap-icon">   <use href="#apple"/>       </svg></a></div>{%- endif -%}
     {%- if site.spotify_username -%}       <div title="Spotify"         class="umbra-vector-blob"><a href="">                                                                                 <svg class="sp-icon">   <use href="#spotify"/>     </svg></a></div>{%- endif -%}
     {%- if site.twitter_username -%}       <div title="Twitter"         class="umbra-vector-blob"><a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}">         <svg class="tw-icon">   <use href="#twitter"/>     </svg></a></div>{%- endif -%}
