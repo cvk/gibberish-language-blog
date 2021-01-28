@@ -1,4 +1,4 @@
-# data about the pages themselves
+# data about the pages themselves i.e., {{ site.data.brand.day-link }}
 day-link: yellow
 magnifier: blue
 sitemap: ""
