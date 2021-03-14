@@ -1,9 +1,10 @@
 ---
 pillar-type: written
 layout: post
+date: 2021-03-13 20:20:20 -0700
 title: "Written 000"
 summary: "a brief summary again"
-categories: example old
+categories: example
 ##permalink: /:categories
 marquee-words: Written123
 ---
