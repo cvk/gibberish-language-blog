@@ -9,4 +9,4 @@ excerpt: "The excerpt to rule them all."
 ##permalink: /:categories
 marquee-words: Cat Purrs
 ---
-{{ page.date }} {{ post.categories }}
+{{ page.date }}Hello

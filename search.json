@@ -8,7 +8,7 @@
       "url"           : "{{ site.baseurl }}{{ post.url }}",
       "category"      : "{{ post.categories | join: ', '}}",
       "date"          : "{{ post.date | date: site.minima.date_format }}",
-      "date-alt"      : "{{post.date | date: "%A %B %e %Y"}}",
+      "date-alt"      : "{{ post.date | date: "%A %B %e %Y"}}",
       "summary"       : "{{ post.summary | strip_html | strip_newlines | escape }}",
       "marquee-words" : "{{ post.marquee-words | strip_html | strip_newlines | escape }}"
 
