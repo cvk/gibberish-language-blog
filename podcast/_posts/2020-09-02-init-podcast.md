@@ -1,7 +1,7 @@
 ---
 pillar-type: podcast # written/channel/podcast
 #___: YEAR-MN-DY HH:MM:SS -0700
-date: 2020-03-07 20:20:20 -0700
+date: 2021-03-07 20:20:20 -0700
 layout: post # default/home/page/post/channel/podcast/written/exit
 title: "Podcast Episode 000" #page seo
 categories: heard behind-the-scenes #seo-in-url
