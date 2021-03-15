@@ -1,7 +1,8 @@
 ---
 pillar-type: channel # written/channel/podcast
 #___: YEAR-MN-DY HH:MM:SS -0700
-date: 2020-09-02 00:20:20 -0700
+date: 2020-09-02 11:23:58 -0700
+published: false
 layout: post # default/home/page/post/channel/podcast/written/exit
 title: "Blower Fan Ambient Sleeping Noise" #page seo
 categories: experimental-media #seo-in-url
