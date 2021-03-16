@@ -6,7 +6,7 @@ layout: post # default/home/page/post/channel/podcast/written/exit
 title: "Podcast Trailer 1" #page seo
 categories: premier media-trailer #seo-in-url
 permalink: /:categories #url
-summary: "first audio, supérieur, en haut, premier, dernier, de haut, meilleur" #
+summary: "Start the journey to speaking the secret Gibberish Language" #next to date
 description: Light Around the Shadow, The Secret Gibberish Language Game Podcast #open graph
 excerpt: gibberish behind-the-scenes #structured
 marquee-words: Light Around the Shadow, The Secret Gibberish Language Game Podcast - Trailer 1 #h1
@@ -15,4 +15,3 @@ image: "" #
 #tags:
 #published: false
 ---
-{{ page.marquee-words }}
