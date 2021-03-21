@@ -8,4 +8,4 @@ categories: example
 ##permalink: /:categories
 marquee-words: Written123
 ---
-{{ page.date }} {{ page.categories }}
+{{ page.date }} {{ page.categories }} one

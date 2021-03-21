@@ -1,7 +1,7 @@
 ---
 pillar-type: written # written/channel/podcast
 #___: YEAR-MN-DY HH:MM:SS -0700
-date: 2020-03-07 20:20:20 -0700
+#date: 2020-03-07 20:20:20 -0700
 layout: post # default/home/page/post/channel/podcast/written/exit
 title: prime the initial #page seo
 categories: gibberish how-to-say #seo-in-url
@@ -13,6 +13,6 @@ marquee-words: Key Words #h1
 ogimage: "" #
 image: "" #
 #tags:
-#published: false
+published: false
 ---
-{{ site.data.brand.day-link }}
+{{ site.data.brand.day-link }} image
