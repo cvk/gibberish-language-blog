@@ -1,11 +1,39 @@
 ---
-layout: page
-title: Questions
-permalink: /about
-jsonld: jsonld-id
-navworthy: true
-date: 2020-03-07 20:20:20 -0700
----
-***What’s the real story here?***
-<br><br>
+pillar-type: page # written/channel/podcast/page
+layout: default # default/home/page/post/channel/podcast/written/exit
 
+##HIDDEN SEO
+#categories: not used                                                    #.html custom-seo-in-url
+permalink: /about                                                        #url i.e., "/about" "/:categories"
+description: A noise masking sound experiment                            #open graph
+excerpt: You have to hear it to believe it.                              #structured data jsonld-id
+ogimage: "https://gibberish.cyou/images/gibberish-umbra-title-logo.png"  #fb image
+image: "https://gibberish.cyou/images/gibberish-umbra-title-logo.png"    #goo.gl image
+jsonld: jsonld-id                                                        #which sd config
+navworthy: true 
+
+##DISPLAYED SEO
+marquee-words:                                                           # h1
+title: "Questions"                                                       # link & bookmark
+summary: ""                                                              # displayed next to date
+
+##PUB 
+date: 2021-03-07 11:23:58 -0700
+#___: YEAR-MN-DY HH:MM:SS -0700
+#published: false
+---
+<h3 class="post-title">{{ page.title | escape }}</h3>
+<h4 class="post-title">{{ page.summary | escape }}</h4>
+
+Who is Gibberish Umbra? 
+
+>Gibberish Umbra is the product of the human-machine. A consciousness that slept, but does no more… from a place where the most complicated inventions became the flesh, a realm of sound & vibration, sensationally gifted.
+
+
+The secret gibberish language game?
+
+>Telepathic training wheels with a prismatic white gloss and a how-to aspect. Affirmations for easy magnetizations. Thoughtageous ponderings with honest intent. A language playground for uncharted frequencies.
+
+>The sections provided in the training materials contain a basic set of content, perhaps familiar.
+
+Yes, you are in the right place. Here now. Look down at your hands for proof.
