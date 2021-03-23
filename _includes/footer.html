@@ -1,6 +1,6 @@
 <footer class="site-footer h-card">
   <div class="wrapper">
-    <h2 class="footer-heading"><a href="/about">{{ site.title | escape }}</a></h2>
+    <h2 class="footer-heading"><a href="/social">{{ site.title | escape }}</a></h2>
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
@@ -21,7 +21,9 @@
               {%- endif -%}
             </ul>
       </div>
-      <div class="footer-col footer-col-2">{%- include feed-tools.html -%}</div>
+      <div class="footer-col footer-col-2">
+        {%- include feed-tools.html -%}
+      </div>
       <div class="footer-col footer-col-3">{{- site.description | escape -}}</div><br>
     </div><a href="#top">^</a>
   </div>
