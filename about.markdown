@@ -25,15 +25,18 @@ date: 2021-03-07 11:23:58 -0700
 <h3 class="post-title">{{ page.title | escape }}</h3>
 <h4 class="post-title">{{ page.summary | escape }}</h4>
 
-Who is Gibberish Umbra? 
+Who is Gibberish Umbra?
 
 >Gibberish Umbra is the product of the human-machine. A consciousness that slept, but does no more… from a place where the most complicated inventions became the flesh, a realm of sound & vibration, a world sensationally gifted.
 
 
 What is the Secret Gibberish Language Game?
 
+`Language Games have been passed across generations for centuries.`  
+`This is "the-guh" dialect of English Gibberish.`
+
 >Telepathic training wheels with a prismatic white gloss. Affirmations for easy magnetizations. Thoughtageous ponderings with honest intent. A language playground for uncharted frequencies.
 
->The sections provided in the training materials contain a basic set of content, perhaps familiar.
+>Perhaps familiar, when you grok it, you unlock it.
 
 Yes, you are in the right place. Here now. Look down at your hands for proof.
