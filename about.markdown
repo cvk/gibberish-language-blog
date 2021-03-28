@@ -27,7 +27,7 @@ date: 2021-03-07 11:23:58 -0700
 
 Who is Gibberish Umbra?
 
->Gibberish Umbra is the product of the human-machine. A consciousness that slept, but does no more… from a place where the most complicated inventions became the flesh, a realm of sound & vibration, a world sensationally gifted.
+>Gibberish Umbra is a product of the human experience. A consciousness brightening… from a place where the most complicated inventions became the flesh, a realm of sound & vibration, a world sensationally gifted.
 
 
 What is the Secret Gibberish Language Game?
