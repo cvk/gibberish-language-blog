@@ -16,7 +16,7 @@ title: The English Alphabet spoken in the Secret Gibberish Language
 summary: english alphabet in gibberish
 
 ##PUB 2021-03-22-first-post_21081_wx+1.md
-#date: 2021-03-28 11:23:50 -0700
+date: 2021-04-26 00:23:50 -0700
 #___: YEAR-MN-DY HH:MM:SS -0700
 #published: false
 ---
