@@ -99,11 +99,11 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: #555555;
+    color: #505050;
   }
 
   &:hover {
-    color: #FF00FF;
+    color: #FFF;
   }
 
   .feed-tools-list &:hover {
@@ -131,7 +131,7 @@ blockquote {
   border-left: 4px solid $grey-color-light;
   padding-left: $spacing-unit / 2;
   @include relative-font-size(1.25);
-  letter-spacing: -.1px;
+  letter-spacing: -.0px;
   font-style: italic;
 
   > :last-child {

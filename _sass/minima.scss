@@ -7,13 +7,13 @@ $base-line-height: 1.2 !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       #FFFF00 !default;
-$background-color: #252525 !default;
-$brand-color:      #0055FF !default;
+$text-color:       #808080 !default; //summary
+$background-color: #111 !default; //
+$brand-color:      #ddd !default; //links
 
-$grey-color:       #FF0000 !default;
-$grey-color-light: #252525 !default;
-$grey-color-dark:  #80FF00 !default;
+$grey-color:       #444 !default; //date
+$grey-color-light: #111 !default;
+$grey-color-dark:  #666 !default;
 
 $table-text-align: left !default;
 
