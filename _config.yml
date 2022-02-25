@@ -15,11 +15,11 @@
 
 livereload: true
 
-title: Learn to Speak the Secret Gibberish Language Game
+title: Gibberish Umbra's Non-Fungible Tokens & Experimental Art
 
 tagline:  The idiolect of the Gibberish Language
 
-description: Light Around the Shadow of the Gibberish lexicon.
+description: Light Around the Shadow of the Gibberish Lexicon.
 
 #show_excerpts: ""
 
@@ -82,12 +82,13 @@ minima:
   date_format: "%y%j"
 
 header_pages:
-  - about.markdown
+# - about.markdown
+# - social.md
+  - index.markdown
   - channel/index.markdown
   - podcast/index.markdown
   - written/index.markdown
-  - social.md
-  - twitter.md
+# - twitter.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

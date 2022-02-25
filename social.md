@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Social
+title: NFT Art
 permalink: /social
 navworthy: true
 marquee-words: social youtube
 ---
-<h1>Learn to Speak Gibberish</h1>
+<h1>Experimental Media & NFTs</h1>
 {% include umbra.html %}

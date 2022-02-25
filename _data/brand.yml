@@ -6,3 +6,19 @@ featured-pillar: ""
 featured-link: ""
 featured-image: ""
 featured-other: ""
+
+pfp2-image: "/images/pfp/238c.png"
+pfp2-link: "https://www.fxhash.xyz/gentk/45755"
+pfp2-hover: "Mark Knol's ASCII-SMOLSKULL #238"
+
+pfp3-image: "/images/pfp/sore-loser.png"
+pfp3-link: "https://teia.art/objkt/486899"
+pfp3-hover: "Texadelic's Sore Loser"
+
+pfp4-image: "/images/pfp/fxApe1139.png"
+pfp4-link: "https://www.fxhash.xyz/gentk/401302"
+pfp4-hover: "Littlesilver's fxApe #1139"
+
+pfp5-image: "/images/pfp/hashcat-gen1-271.png"
+pfp5-link: "https://www.fxhash.xyz/gentk/270572"
+pfp5-hover: "levoontin's hash cats genesis #271"

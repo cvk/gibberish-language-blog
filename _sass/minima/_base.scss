@@ -235,10 +235,11 @@ pre {
 
 
 .umbra-vector-blob {
-  height: 96px;
-  display: flex;
-  align-items: flex-start;
+  height: 72px;
   justify-content: center;
+  display: inline-flex;
+  align-items: center;
+  float: center;
   svg {
     width: 80%;
   }
