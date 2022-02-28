@@ -276,11 +276,31 @@ pre {
 .mb-icon {
   display: inline;
   vertical-align: text-bottom;
-  fill: #000;
+  fill: #bb1919;
 }
 
 .mb-icon:hover {
   fill: #FFF;
+}
+
+.vs-icon {
+  display: inline;
+  vertical-align: text-bottom;
+  fill: #ffffff;
+}
+
+.vs-icon:hover {
+  fill: #c5c5c5;
+}
+
+.hn-icon {
+  display: inline;
+  vertical-align: text-bottom;
+  fill: #ffffff;
+}
+
+.hn-icon:hover {
+  fill: #c5c5c5;
 }
 
 .fb-icon {
