@@ -1,5 +1,7 @@
 # showcase items i.e., {{ site.data.featured.showcase1-link }} ,etc.,
 
+showcase1-smol: "/images/showcase/smol-item.png"
 showcase1-image: "/images/showcase/item.png"
 showcase1-link: "https://"
-showcase1-hover: "nice words"
+showcase1-hover-name: "name"
+emoji: "😀"
