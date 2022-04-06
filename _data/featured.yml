@@ -1,0 +1,5 @@
+# showcase items i.e., {{ site.data.featured.showcase1-link }} ,etc.,
+
+showcase1-image: "/images/showcase/item.png"
+showcase1-link: "https://"
+showcase1-hover: "nice words"
