@@ -1,11 +1,11 @@
 # showcase items i.e., {{ site.data.golbriszees.showcase1-link }} ,etc.,
 
 showcase1-image: "/images/showcase/01_Gabriella-1000.gif"
-showcase1-link: "https://www.fxhash.xyz/gentk/45755"
-showcase1-hover: "name"
+showcase1-link: "/images/showcase/01_Gabriella-1000.gif"
+showcase1-hover: "Gabriella"
 
 showcase2-image: "/images/showcase/02_Gustavo-1000.gif"
-showcase2-link: "https://www.fxhash.xyz/gentk/45755"
+showcase2-link: "/images/showcase/02_Gustavo-1000.gif"
 showcase2-hover: "name"
 
 showcase3-image: "/images/showcase/03_Genevie-1000.gif"
