@@ -1,0 +1,30 @@
+hen:
+  title: "hic et nunc"
+  alink: "https://teia.art/gibberish-umbra"
+  clink: "https://teia.art/gibberish-umbra/collection"
+  token: "Tezos"
+  
+versum:
+  title: "versum"
+  alink: "https://versum.xyz/user/tz1LenXMgcm2GKWjSoFt5TAVwfpSW4Czj5Qo/created"
+  clink: "https://versum.xyz/user/tz1LenXMgcm2GKWjSoFt5TAVwfpSW4Czj5Qo/owned"
+  token: "Tezos"
+  
+objktcom:
+  title: "objkt.com"
+  alink: "https://objkt.com/profile/gibberish/created"
+  clink: "https://objkt.com/profile/gibberish/owned"
+  token: "Tezos"
+
+taco:
+  title: "8bidou"
+  alink: "https://8x8.teztok.com/user/tz1LenXMgcm2GKWjSoFt5TAVwfpSW4Czj5Qo"
+  clink: "https://8x8.teztok.com/user/tz1LenXMgcm2GKWjSoFt5TAVwfpSW4Czj5Qo"
+  token: "Tezos"
+  
+mintbase:
+  title: "mintbase"
+  alink: ""
+  clink: ""
+  token: "Near"
+  

@@ -1,0 +1,36 @@
+00:
+  title: "The House of Golbriszees"
+  dlink: "https://"
+  nfts:
+    - ref: g022
+    - ref: g023
+    - ref: g024
+    - ref: g025
+    - ref: g026
+    - ref: g027
+    - ref: g028
+    - ref: g029
+    - ref: g030
+    - ref: g031
+    - ref: g032
+    - ref: g033
+    - ref: g034
+    - ref: g035
+    - ref: g036
+    - ref: g037
+  markets: 
+    - ref: taco
+
+01:
+  title: "The 7 Principles"
+  nfts:
+    - ref:
+    - ref:
+    - ref:
+    - ref:
+    - ref:
+    - ref:
+    - ref:
+  markets:
+    - ref: versum
+    - ref:

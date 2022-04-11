@@ -1,13 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-  {%- include head.html -%}
-<body>
-  {%- include header.html -%}
-<!-- gibberish.umbra -->
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper"> {{ content }}</div>
-  </main><!-- end main -->
-  {%- include footer.html -%}
-  {%- if jekyll.environment == 'production' -%}{%- include serviceWorker.html -%}{%- endif -%}
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+    <main class="page-content">
+      {% if page.css %}
+      <article class="{{ page.css }}">
+      {{ content }}
+      </article>
+      {% else %}
+      <div class="wrapper">
+      {{ content }}
+      </div>
+      {% endif %}
+    </main>
+    {% include footer.html %}
+    {% if jekyll.environment == 'production' %}{% include serviceWorker.html %}{% endif %}
 </body>
 </html>

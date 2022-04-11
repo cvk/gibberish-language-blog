@@ -1,0 +1,8 @@
+<h2>a piece of artwork</h2>
+{% assign artwork = site.data.nfts[page.nft] %}
+  <div class="c-art__frame">
+    <a class="c-art__mlink" href="{{ artwork.mlink }}">
+      <img class="c-art__img" src="{{ artwork.ilink }}" alt="Link to {{ artwork.title }}"/>
+    </a>
+    <p class="c-art__desc">{{ artwork.words }}</p>
+  </div>
