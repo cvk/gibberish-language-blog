@@ -253,6 +253,43 @@ pre {
   float: center;
 }
 
+
+.c-art__showbox {
+  display: flex;
+  flex-direction: column;
+  padding-top: 13vh;
+}
+
+.c-art__frame {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 77vh;
+}
+
+.c-art__img {
+  display: block;
+  box-shadow: inset 5px 5px 16px 5px #000;
+  border: 3px solid #505050;
+  border-radius: 16px;
+  box-sizing: border-box;
+  padding: 16%;
+  background: hsl(0, 0%, 20%);
+}
+
+.c-art__fig {
+  text-align: right;
+}
+
+.c-art__title {
+  text-align: center;
+}
+
+
+
+
+
 .yt-icon {
   vertical-align: text-bottom;
   fill: #F00;

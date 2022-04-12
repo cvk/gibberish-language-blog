@@ -21,27 +21,15 @@ g002:
   maker: Texadelic
 
 g003:
-  title: Square
-  ilink: "/images/square.jpg"
-  olink: "/images/square.jpg"
-  mlink: "/images/square.jpg"
+  title: "Square"
+  ilink: "/images/pfp/square.jpg"
+  olink: "/images/pfp/square.jpg"
+  mlink: "/images/pfp/square.jpg"
   words:
   #on2nd
   tagdt:
   speci: north
   maker: Gibberish Umbra
-
-g003:
-  title:
-  ilink:
-  olink:
-  mlink:
-  words:
-  #on2nd
-  tagdt:
-  speci: north
-  maker: 
-
   
 g022:
   title: "Gabriella - House of Golbriszees #1"
