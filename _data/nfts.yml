@@ -1,24 +1,35 @@
 g001:
-  title:
-  ilink:
-  olink:
+  title: Logo
+  ilink: /gibberish-umbra-512-icon.png
+  olink: "/"
   mlink:
-  words:
+  words: "Version 1"
   #on2nd
   tagdt:
   speci: north
-  specj: 
+  maker: Gibberish Umbra
 
 g002:
-  title:
-  ilink:
+  title: "Sore Loser"
+  ilink: /images/pfp/sore-loser.png
   olink:
-  mlink:
+  mlink: "https://teia.art/objkt/486899"
+  words: "Early 'hic et nunc' work."
+  #on2nd
+  tagdt:
+  speci: north
+  maker: Texadelic
+
+g003:
+  title: Square
+  ilink: "/images/square.jpg"
+  olink: "/images/square.jpg"
+  mlink: "/images/square.jpg"
   words:
   #on2nd
   tagdt:
   speci: north
-  specj: 
+  maker: Gibberish Umbra
 
 g003:
   title:
@@ -29,63 +40,52 @@ g003:
   #on2nd
   tagdt:
   speci: north
-  specj: 
-
-g003:
-  title:
-  ilink:
-  olink:
-  mlink:
-  words:
-  #on2nd
-  tagdt:
-  speci: north
-  specj: 
+  maker: 
 
   
 g022:
   title: "Gabriella - House of Golbriszees #1"
   ilink: "/images/showcase/01_Gabriella-1000.gif"
   olink: #ipfs, etc.,
-  mlink: #versum, etc.,
-  words: #description
+  mlink: "/images/showcase/01_Gabriella-1000.gif"
+  words: "Gabriella - House of Golbriszees #1"
   #on2nd
-  tagdt:
+  tagdt: 22092
   speci: north
-  specj: 
+  maker: 
   
 g023:
-  title: "Gustavo - House of Golbriszees #2"
+  title: "Gustavo"
   ilink: "/images/showcase/02_Gustavo-1000.gif"
   olink: #ipfs, etc.,
   mlink: #versum, etc.,
-  words: #description
+  words:  "Golbriszee #2"
   #on2nd
   tagdt:
   speci: north
-  specj: 
+  maker: Gibberish Umbra
 
 g024:
   title: "Genevie - House of Golbriszees #3"
   ilink: "/images/showcase/03_Genevie-1000.gif"
-  olink: #ipfs, etc.,
-  mlink: #versum, etc.,
-  words: #description
+  olink: "/images/showcase/03_Genevie-1000.gif"
+  mlink: "/images/showcase/03_Genevie-1000.gif"
+  words: "I really wanted to on this one. I did."
   #on2nd
   tagdt:
   speci: north
-  specj: 
+  maker: Gibberish Umbra
 
 g025:
   title: "Gary - House of Golbriszees #4"
   ilink: "/images/showcase/04_Gary-1000.gif"
   olink: #ipfs, etc.,
   mlink: #versum, etc.,
-  words: #description
+  words: oh
   #on2nd
   tagdt:
   speci: north
-  specj: 
+  maker: 
 
 g026:
   title: "Guiseppe - House of Golbriszees #5"
@@ -96,7 +96,7 @@ g026:
   #on2nd
   tagdt:
   speci: north
-  specj: 
+  maker: 
 
 
 g027:
@@ -108,7 +108,7 @@ g027:
   #on2nd
   tagdt:
   speci: north
-  specj: 
+  maker: 
 
 
 g028:
@@ -120,7 +120,7 @@ g028:
   #on2nd
   tagdt:
   speci: north
-  specj: 
+  maker: 
 
 
 g029:
@@ -132,7 +132,7 @@ g029:
   #on2nd
   tagdt:
   speci: north
-  specj: 
+  maker: 
 
 
 g030:
@@ -144,7 +144,7 @@ g030:
   #on2nd
   tagdt:
   speci: north
-  specj: 
+  maker: 
 
 
 g031:
@@ -156,7 +156,7 @@ g031:
   #on2nd
   tagdt:
   speci: north
-  specj: 
+  maker: 
 
 
 g032:
@@ -168,7 +168,7 @@ g032:
   #on2nd
   tagdt:
   speci: north
-  specj: 
+  maker: 
 
 
 g033:
@@ -180,7 +180,7 @@ g033:
   #on2nd
   tagdt:
   speci: north
-  specj: 
+  maker: 
 
 
 g034:
@@ -192,7 +192,7 @@ g034:
   #on2nd
   tagdt:
   speci: north
-  specj: 
+  maker: 
 
 
 g035:
@@ -204,7 +204,7 @@ g035:
   #on2nd
   tagdt:
   speci: north
-  specj: 
+  maker: 
 
 
 g036:
@@ -216,7 +216,7 @@ g036:
   #on2nd
   tagdt:
   speci: north
-  specj: 
+  maker: 
 
 
 g037:
@@ -228,5 +228,5 @@ g037:
   #on2nd
   tagdt:
   speci: north
-  specj: 
+  maker: 
 
