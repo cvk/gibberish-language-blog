@@ -21,14 +21,25 @@ g002:
   maker: Gibberish Umbra
 
 g003:
-  title: "Background"
-  ilink: "/images/site-bg.jpg"
-  olink: "/images/site-bg.jpg"
-  mlink: "/images/site-bg.jpg"
-  words:
+  title: "Experimental Vector 0"
+  ilink: "/images/showcase/mintbase/GIB001.svg"
+  olink: "/images/showcase/mintbase/GIB001.svg"
+  mlink: "/images/showcase/mintbase/GIB001.svg"
+  words: "Early Mintbase work."
   #on2nd
   tagdt:
-  speci: north
+  speci: 
+  maker: Gibberish Umbra
+  
+g004:
+  title: "In & Of Itself Equals Eye"
+  ilink: "/images/showcase/mintbase/in-and-of-itself-equals-eye.png"
+  olink: "/images/showcase/mintbase/in-and-of-itself-equals-eye.png"
+  mlink: "/images/showcase/mintbase/in-and-of-itself-equals-eye.png"
+  words: "Early Mintbase work."
+  #on2nd
+  tagdt:
+  speci: 
   maker: Gibberish Umbra
   
 g022:
