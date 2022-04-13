@@ -1,4 +1,4 @@
-g001:
+g000:
   title: Logo
   ilink: /gibberish-umbra-512-icon.png
   olink: /gibberish-umbra-512-icon.png
@@ -9,18 +9,7 @@ g001:
   speci: north
   maker: Gibberish Umbra
 
-g002:
-  title: "We Signed Up for This"
-  ilink: /images/written-as-imaged/we-signed-up-for-this.jpg
-  olink: /images/written-as-imaged/we-signed-up-for-this.jpg
-  mlink: /images/written-as-imaged/we-signed-up-for-this.jpg
-  words: "It feels good."
-  #on2nd
-  tagdt: 20216
-  speci: north
-  maker: Gibberish Umbra
-
-g003:
+g001:
   title: "Experimental Vector 0"
   ilink: "/images/showcase/mintbase/GIB001.svg"
   olink: "/images/showcase/mintbase/GIB001.svg"
@@ -31,7 +20,18 @@ g003:
   speci: 
   maker: Gibberish Umbra
   
-g004:
+g002:
+  title: "In & Of Itself Equals Eye"
+  ilink: "/images/showcase/mintbase/in-and-of-itself-equals-eye.png"
+  olink: "/images/showcase/mintbase/in-and-of-itself-equals-eye.png"
+  mlink: "/images/showcase/mintbase/in-and-of-itself-equals-eye.png"
+  words: "Early Mintbase work."
+  #on2nd
+  tagdt:
+  speci: 
+  maker: Gibberish Umbra
+  
+g003:
   title: "In & Of Itself Equals Eye"
   ilink: "/images/showcase/mintbase/in-and-of-itself-equals-eye.png"
   olink: "/images/showcase/mintbase/in-and-of-itself-equals-eye.png"
