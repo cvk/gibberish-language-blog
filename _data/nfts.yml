@@ -32,14 +32,80 @@ g002:
   maker: Gibberish Umbra
   
 g003:
-  title: "In & Of Itself Equals Eye"
-  ilink: "/images/showcase/mintbase/in-and-of-itself-equals-eye.png"
-  olink: "/images/showcase/mintbase/in-and-of-itself-equals-eye.png"
-  mlink: "/images/showcase/mintbase/in-and-of-itself-equals-eye.png"
+  title: "New Ieleia"
+  ilink: "/images/showcase/mintbase/GIB003.png"
+  olink: "/images/showcase/mintbase/GIB003.png"
+  mlink: "/images/showcase/mintbase/GIB003.png"
   words: "Early Mintbase work."
   #on2nd
   tagdt:
   speci: 
+  maker: Gibberish Umbra
+  
+g004:
+  title: "Exquizitrone"
+  ilink: "/images/showcase/mintbase/exquizitrone.svg"
+  olink: "https://ipfs.io/ipfs/QmaD23qrszfcw3i78iQSysFuTxDZDVzRsJPxwiNs4WmHxD"
+  mlink: "https://teia.art/objkt/474511"
+  words: "Early hic et nunc."
+  #on2nd
+  tagdt:
+  speci: 
+  maker: Gibberish Umbra
+  
+g005:
+  title: "Ecquisitrone"
+  ilink: "/images/showcase/mintbase/Ecquisitrone.gif"
+  olink: "/images/showcase/mintbase/Ecquisitrone.gif"
+  mlink: "/images/showcase/mintbase/Ecquisitrone.gif"
+  words: "Early hic et nunc."
+  #on2nd
+  tagdt: "21289"
+  speci: 
+  maker: Gibberish Umbra
+  
+g007:
+  title: "Rainbow Puffs"
+  ilink: "/images/showcase/mintbase/21304-rainbow-puffs.jpeg"
+  olink: "/images/showcase/mintbase/21304-rainbow-puffs.jpeg"
+  mlink: "/images/showcase/mintbase/21304-rainbow-puffs.jpeg"
+  words: "Early hic et nunc."
+  #on2nd
+  tagdt: "21304"
+  speci: 
+  maker: Gibberish Umbra
+  
+g008:
+  title: "Blue Exclaim"
+  ilink: "/images/showcase/mintbase/blue-exclaim.svg"
+  olink: "/images/showcase/mintbase/blue-exclaim.svg"
+  mlink: "/images/showcase/mintbase/blue-exclaim.svg"
+  words: "Early hic et nunc."
+  #on2nd
+  tagdt: "21311"
+  speci: 
+  maker: Gibberish Umbra
+  
+g009:
+  title: "Clapper"
+  ilink: "/images/showcase/mintbase/GIB009.gif"
+  olink: "/images/showcase/mintbase/GIB009.gif"
+  mlink: "/images/showcase/mintbase/GIB009.gif"
+  words: "Unminted."
+  #on2nd
+  tagdt: "21318"
+  speci: 
+  maker: Gibberish Umbra
+  
+g013:
+  title: "All is Mind"
+  ilink: "https://ipfs.io/ipfs/bafybeicwmqyucyaptimb6hhdttrquazctvol6vqimwp5ejmnpgoda4ou7u/"
+  olink: "https://ipfs.io/ipfs/bafybeicwmqyucyaptimb6hhdttrquazctvol6vqimwp5ejmnpgoda4ou7u/"
+  mlink: "https://versum.xyz/token/versum/12961"
+  words: "Unminted."
+  #on2nd
+  tagdt: "22041"
+  speci: Versum
   maker: Gibberish Umbra
   
 g022:
