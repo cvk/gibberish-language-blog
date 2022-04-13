@@ -1,8 +1,8 @@
 g001:
   title: Logo
   ilink: /gibberish-umbra-512-icon.png
-  olink: "/"
-  mlink:
+  olink: /gibberish-umbra-512-icon.png
+  mlink: /gibberish-umbra-512-icon.png
   words: "Version 1"
   #on2nd
   tagdt:
@@ -10,21 +10,21 @@ g001:
   maker: Gibberish Umbra
 
 g002:
-  title: "Sore Loser"
-  ilink: /images/pfp/sore-loser.png
-  olink:
-  mlink: "https://teia.art/objkt/486899"
-  words: "Early 'hic et nunc' work."
+  title: "We Signed Up for This"
+  ilink: /images/written-as-imaged/we-signed-up-for-this.jpg
+  olink: /images/written-as-imaged/we-signed-up-for-this.jpg
+  mlink: /images/written-as-imaged/we-signed-up-for-this.jpg
+  words: "It feels good."
   #on2nd
-  tagdt:
+  tagdt: 20216
   speci: north
-  maker: Texadelic
+  maker: Gibberish Umbra
 
 g003:
-  title: "Square"
-  ilink: "/images/pfp/square.jpg"
-  olink: "/images/pfp/square.jpg"
-  mlink: "/images/pfp/square.jpg"
+  title: "Background"
+  ilink: "/images/site-bg.jpg"
+  olink: "/images/site-bg.jpg"
+  mlink: "/images/site-bg.jpg"
   words:
   #on2nd
   tagdt:
@@ -32,15 +32,15 @@ g003:
   maker: Gibberish Umbra
   
 g022:
-  title: "Gabriella - House of Golbriszees #1"
+  title: "Gabriella"
   ilink: "/images/showcase/01_Gabriella-1000.gif"
-  olink: #ipfs, etc.,
+  olink: "/images/showcase/01_Gabriella-1000.gif"
   mlink: "/images/showcase/01_Gabriella-1000.gif"
-  words: "Gabriella - House of Golbriszees #1"
+  words: "House of Golbriszees #1"
   #on2nd
   tagdt: 22092
   speci: north
-  maker: 
+  maker: Gibberish Umbra
   
 g023:
   title: "Gustavo"

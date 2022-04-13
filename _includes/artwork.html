@@ -1,12 +1,13 @@
 {% assign artwork = site.data.nfts[page.nft] %}
-<div class="c-art__frame" class="c-art__showbox">
-<figure class="c-art__title">"{{ artwork.title }}"</figure>
+<div class="c-art__showbox">
 <figure>
+
 <a href="{{ artwork.mlink }}">
 <img class="c-art__img" style="max-height: 69vh;" src="{{ artwork.ilink }}" alt="Link to {{ artwork.title }}"/>
 </a>
 </figure>
-<figure>
+<figure class="c-art__about">
+  <figcaption>Title: {{ artwork.title }}</figcaption>
   <figcaption><cite>Artist: {{ artwork.maker }}</cite></figcaption>
   <p><blockquote>{{ artwork.words }}</blockquote></p>
 </figure>
