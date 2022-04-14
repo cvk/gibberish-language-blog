@@ -1,5 +1,5 @@
 ---
-layout: collections
+layout: nft
 title: NFT Art
 permalink: /social
 navworthy: true

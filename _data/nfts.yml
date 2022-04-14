@@ -44,7 +44,7 @@ g003:
   
 g004:
   title: "Exquizitrone"
-  ilink: "/images/showcase/mintbase/exquizitrone.svg"
+  ilink: "/images/showcase/hicetnunc/exquizitrone.svg"
   olink: "https://ipfs.io/ipfs/QmaD23qrszfcw3i78iQSysFuTxDZDVzRsJPxwiNs4WmHxD"
   mlink: "https://teia.art/objkt/474511"
   words: "Early hic et nunc."
@@ -55,9 +55,9 @@ g004:
   
 g005:
   title: "Ecquisitrone"
-  ilink: "/images/showcase/mintbase/Ecquisitrone.gif"
-  olink: "/images/showcase/mintbase/Ecquisitrone.gif"
-  mlink: "/images/showcase/mintbase/Ecquisitrone.gif"
+  ilink: "/images/showcase/hicetnunc/Ecquisitrone.gif"
+  olink: "/images/showcase/hicetnunc/Ecquisitrone.gif"
+  mlink: "/images/showcase/hicetnunc/Ecquisitrone.gif"
   words: "Early hic et nunc."
   #on2nd
   tagdt: "21289"
@@ -66,9 +66,9 @@ g005:
   
 g007:
   title: "Rainbow Puffs"
-  ilink: "/images/showcase/mintbase/21304-rainbow-puffs.jpeg"
-  olink: "/images/showcase/mintbase/21304-rainbow-puffs.jpeg"
-  mlink: "/images/showcase/mintbase/21304-rainbow-puffs.jpeg"
+  ilink: "/images/showcase/hicetnunc/21304-rainbow-puffs.jpeg"
+  olink: "/images/showcase/hicetnunc/21304-rainbow-puffs.jpeg"
+  mlink: "/images/showcase/hicetnunc/21304-rainbow-puffs.jpeg"
   words: "Early hic et nunc."
   #on2nd
   tagdt: "21304"
@@ -77,9 +77,9 @@ g007:
   
 g008:
   title: "Blue Exclaim"
-  ilink: "/images/showcase/mintbase/blue-exclaim.svg"
-  olink: "/images/showcase/mintbase/blue-exclaim.svg"
-  mlink: "/images/showcase/mintbase/blue-exclaim.svg"
+  ilink: "/images/showcase/hicetnunc/blue-exclaim.svg"
+  olink: "/images/showcase/hicetnunc/blue-exclaim.svg"
+  mlink: "/images/showcase/hicetnunc/blue-exclaim.svg"
   words: "Early hic et nunc."
   #on2nd
   tagdt: "21311"
@@ -88,9 +88,9 @@ g008:
   
 g009:
   title: "Clapper"
-  ilink: "/images/showcase/mintbase/GIB009.gif"
-  olink: "/images/showcase/mintbase/GIB009.gif"
-  mlink: "/images/showcase/mintbase/GIB009.gif"
+  ilink: "/images/showcase/unminted/GIB009.gif"
+  olink: "/images/showcase/unminted/GIB009.gif"
+  mlink: "/images/showcase/unminted/GIB009.gif"
   words: "Unminted."
   #on2nd
   tagdt: "21318"
@@ -121,7 +121,7 @@ g022:
   
 g023:
   title: "Gustavo"
-  ilink: "/images/showcase/shikakus/shikakus/02_Gustavo-1000.gif"
+  ilink: "/images/showcase/shikakus/02_Gustavo-1000.gif"
   olink: #ipfs, etc.,
   mlink: #versum, etc.,
   words:  "Golbriszee #2"
