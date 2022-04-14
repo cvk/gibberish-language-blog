@@ -1,65 +1,65 @@
 # showcase items i.e., {{ site.data.golbriszees.showcase1-link }} ,etc.,
 
-showcase1-image: "/images/showcase/01_Gabriella-1000.gif"
-showcase1-link: "/images/showcase/01_Gabriella-1000.gif"
+showcase1-image: "/images/showcase/shikakus/01_Gabriella-1000.gif"
+showcase1-link: "/images/showcase/shikakus/01_Gabriella-1000.gif"
 showcase1-hover: "Gabriella"
 
-showcase2-image: "/images/showcase/02_Gustavo-1000.gif"
-showcase2-link: "/images/showcase/02_Gustavo-1000.gif"
+showcase2-image: "/images/showcase/shikakus/02_Gustavo-1000.gif"
+showcase2-link: "/images/showcase/shikakus/02_Gustavo-1000.gif"
 showcase2-hover: "name"
 
-showcase3-image: "/images/showcase/03_Genevie-1000.gif"
+showcase3-image: "/images/showcase/shikakus/03_Genevie-1000.gif"
 showcase3-link: "https://"
 showcase3-hover: "name"
 
-showcase4-image: "/images/showcase/04_Gary-1000.gif"
+showcase4-image: "/images/showcase/shikakus/04_Gary-1000.gif"
 showcase4-link: "https://"
 showcase4-hover: "name"
 
-showcase5-image: "/images/showcase/05_Guiseppe-1000.gif"
+showcase5-image: "/images/showcase/shikakus/05_Guiseppe-1000.gif"
 showcase5-link: "https://"
 showcase5-hover: "name"
 
-showcase6-image: "/images/showcase/06_Gilroy-1000.gif"
+showcase6-image: "/images/showcase/shikakus/06_Gilroy-1000.gif"
 showcase6-link: "https://"
 showcase6-hover: "name"
 
-showcase7-image: "/images/showcase/07_Gayle-1000.gif"
+showcase7-image: "/images/showcase/shikakus/07_Gayle-1000.gif"
 showcase7-link: "https://"
 showcase7-hover: "name"
 
-showcase8-image: "/images/showcase/08_Gracie-1000.gif"
+showcase8-image: "/images/showcase/shikakus/08_Gracie-1000.gif"
 showcase8-link: "https://"
 showcase8-hover: "name"
 
-showcase9-image: "/images/showcase/09_Ginny-1000.gif"
+showcase9-image: "/images/showcase/shikakus/09_Ginny-1000.gif"
 showcase9-link: "https://"
 showcase9-hover: "name"
 
-showcase10-image: "/images/showcase/10_Gunther.gif"
+showcase10-image: "/images/showcase/shikakus/10_Gunther.gif"
 showcase10-link: "https://"
 showcase10-hover: "name"
 
-showcase11-image: "/images/showcase/11_Grayson-1000.gif"
+showcase11-image: "/images/showcase/shikakus/11_Grayson-1000.gif"
 showcase11-link: "https://"
 showcase11-hover: "name"
 
-showcase12-image: "/images/showcase/12_Guillermo-1000.gif"
+showcase12-image: "/images/showcase/shikakus/12_Guillermo-1000.gif"
 showcase12-link: "https://"
 showcase12-hover: "name"
 
-showcase13-image: "/images/showcase/13_Gretta-1000.gif"
+showcase13-image: "/images/showcase/shikakus/13_Gretta-1000.gif"
 showcase13-link: "https://"
 showcase13-hover: "name"
 
-showcase14-image: "/images/showcase/14_Giannis-1000.gif"
+showcase14-image: "/images/showcase/shikakus/14_Giannis-1000.gif"
 showcase14-link: "https://"
 showcase14-hover: "name"
 
-showcase15-image: "/images/showcase/15_Gwendolyn-1000.gif"
+showcase15-image: "/images/showcase/shikakus/15_Gwendolyn-1000.gif"
 showcase15-link: "https://"
 showcase15-hover: "name"
 
-showcase16-image: "/images/showcase/16_Geoff-1000.gif"
+showcase16-image: "/images/showcase/shikakus/16_Geoff-1000.gif"
 showcase16-link: "https://"
 showcase16-hover: "name"
