@@ -268,6 +268,13 @@ pre {
   transform: translateX(-50%);
 }
 
+.c-art__frame2 {
+  flex: 0 1 auto;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
 .c-art__img {
   display: block;
   box-shadow: inset 5px 5px 16px 5px #000;
@@ -284,9 +291,17 @@ pre {
 
 .c-art__title {
   text-align: center;
+  flex: 0 1 auto;
+  position:relative;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
-
+.c-art__title2 {
+  flex: 0 1 auto;
+  position: relative;
+  text-align: -webkit-center;
+}
 
 
 

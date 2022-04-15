@@ -90,6 +90,7 @@ header_pages:
   - channel/index.markdown
   - podcast/index.markdown
   - written/index.markdown
+  - art3/index.markdown
 # - twitter.md
 
 # Exclude from processing.

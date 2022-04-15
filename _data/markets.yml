@@ -2,29 +2,29 @@ hen:
   title: "hic et nunc"
   alink: "https://teia.art/gibberish-umbra"
   clink: "https://teia.art/gibberish-umbra/collection"
-  token: "Tezos"
+  token: "$xtz"
   
 versum:
-  title: "versum"
+  title: "versum.xyz"
   alink: "https://versum.xyz/user/tz1LenXMgcm2GKWjSoFt5TAVwfpSW4Czj5Qo/created"
   clink: "https://versum.xyz/user/tz1LenXMgcm2GKWjSoFt5TAVwfpSW4Czj5Qo/owned"
-  token: "Tezos"
+  token: "$xtz"
   
 objktcom:
   title: "objkt.com"
   alink: "https://objkt.com/profile/gibberish/created"
   clink: "https://objkt.com/profile/gibberish/owned"
-  token: "Tezos"
+  token: "$xtz"
 
 taco:
   title: "8bidou"
   alink: "https://8x8.teztok.com/user/tz1LenXMgcm2GKWjSoFt5TAVwfpSW4Czj5Qo"
   clink: "https://8x8.teztok.com/user/tz1LenXMgcm2GKWjSoFt5TAVwfpSW4Czj5Qo"
-  token: "Tezos"
+  token: "$xtz"
   
 mintbase:
   title: "mintbase"
   alink: ""
   clink: ""
-  token: "Near"
+  token: "$near"
   

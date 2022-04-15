@@ -5,7 +5,7 @@ g000:
   mlink: /gibberish-umbra-512-icon.png
   words: "Version 1"
   #on2nd
-  tagdt:
+  tagdt: 
   speci: north
   maker: Gibberish Umbra
 
@@ -21,7 +21,7 @@ g001:
   maker: Gibberish Umbra
   
 g002:
-  title: "In & Of Itself Equals Eye"
+  title: "In and Of Itself Equals Eye"
   ilink: "/images/showcase/mintbase/in-and-of-itself-equals-eye.png"
   olink: "/images/showcase/mintbase/in-and-of-itself-equals-eye.png"
   mlink: "/images/showcase/mintbase/in-and-of-itself-equals-eye.png"
@@ -67,8 +67,8 @@ g005:
 g007:
   title: "Rainbow Puffs"
   ilink: "/images/showcase/hicetnunc/21304-rainbow-puffs.jpeg"
-  olink: "/images/showcase/hicetnunc/21304-rainbow-puffs.jpeg"
-  mlink: "/images/showcase/hicetnunc/21304-rainbow-puffs.jpeg"
+  olink: "https://ipfs.io/ipfs/QmdaD97S3G7zG79ajyf8sYWQAhnhxGJq3qXqCRQicuSxYo"
+  mlink: "https://teia.art/objkt/494970"
   words: "Early hic et nunc."
   #on2nd
   tagdt: "21304"
@@ -87,11 +87,11 @@ g008:
   maker: Gibberish Umbra
   
 g009:
-  title: "Clapper"
+  title: "Black & White Film Palette"
   ilink: "/images/showcase/unminted/GIB009.gif"
   olink: "/images/showcase/unminted/GIB009.gif"
   mlink: "/images/showcase/unminted/GIB009.gif"
-  words: "Unminted."
+  words: "2 color, no dither, unminted. CC0"
   #on2nd
   tagdt: "21318"
   speci: 
@@ -99,199 +99,299 @@ g009:
   
 g013:
   title: "All is Mind"
-  ilink: "https://ipfs.io/ipfs/bafybeicwmqyucyaptimb6hhdttrquazctvol6vqimwp5ejmnpgoda4ou7u/"
-  olink: "https://ipfs.io/ipfs/bafybeicwmqyucyaptimb6hhdttrquazctvol6vqimwp5ejmnpgoda4ou7u/"
+  ilink: "https://bafybeicwmqyucyaptimb6hhdttrquazctvol6vqimwp5ejmnpgoda4ou7u.ipfs.infura-ipfs.io/"
+  olink: "https://bafybeicwmqyucyaptimb6hhdttrquazctvol6vqimwp5ejmnpgoda4ou7u.ipfs.infura-ipfs.io/"
   mlink: "https://versum.xyz/token/versum/12961"
-  words: "Unminted."
+  words: "72 frames @GibberishUmbra 22041"
   #on2nd
   tagdt: "22041"
   speci: Versum
   maker: Gibberish Umbra
   
-g022:
-  title: "Gabriella"
-  ilink: "/images/showcase/01_Gabriella-1000.gif"
-  olink: "/images/showcase/01_Gabriella-1000.gif"
-  mlink: "/images/showcase/01_Gabriella-1000.gif"
-  words: "House of Golbriszees #1"
+g014:
+  title: "Planes Beyond Knowing"
+  ilink: "https://bafybeiac5mrgt2bsce4yyjrdcef5ji2ng7pcg6mkcurcehqrony5it5gqq.ipfs.infura-ipfs.io/"
+  olink: "https://bafybeiac5mrgt2bsce4yyjrdcef5ji2ng7pcg6mkcurcehqrony5it5gqq.ipfs.infura-ipfs.io/"
+  mlink: "https://versum.xyz/token/versum/14169"
+  words: "1 frame @GibberishUmbra 22051"
+  #on2nd
+  tagdt: "22041"
+  speci: Versum
+  maker: Gibberish Umbra
+  
+g015:
+  title: "Pendulum"
+  ilink: "/images/showcase/versum/pendulum-cover-art.jpg"
+  olink: "https://bafybeicdls3dd4tjz3hdwhmsxxxe273w2aokojj6oenlz3hevksrwogoce.ipfs.infura-ipfs.io/"
+  mlink: "https://versum.xyz/token/versum/15431"
+  words: "82 frames @GibberishUmbra 22021"
+  #on2nd
+  tagdt: "22021"
+  speci: Versum
+  maker: Gibberish Umbra
+  
+g016:
+  title: "Two Poles"
+  ilink: "https://ipfs.io/ipfs/bafybeieq72brgjy6muxl4key2fy6t2pmoodofx3mh7rv7u3xmussrlapau/"
+  olink: "https://ipfs.io/ipfs/bafybeieq72brgjy6muxl4key2fy6t2pmoodofx3mh7rv7u3xmussrlapau/"
+  mlink: "https://versum.xyz/token/versum/14188"
+  words: "34 frames @GibberishUmbra 22051"
+  #on2nd
+  tagdt: "22051"
+  speci: Versum
+  maker: Gibberish Umbra
+  
+g018:
+  title: "Cauldron of Rainbows"
+  ilink: "https://bafybeiajlfioq76bs7by6kpngiicxovi442gnqiwqlmayqnl5ryuxrripa.ipfs.infura-ipfs.io/"
+  olink: "https://bafybeiajlfioq76bs7by6kpngiicxovi442gnqiwqlmayqnl5ryuxrripa.ipfs.infura-ipfs.io/"
+  mlink: "https://versum.xyz/token/versum/15434"
+  words: "1 frame @GibberishUmbra 22058"
+  #on2nd
+  tagdt: "22058"
+  speci: Versum
+  maker: Gibberish Umbra
+  
+g019a:
+  title: "Mental Blind Spot - Square"
+  ilink: "https://bafybeiheglym6s4luoxymxtksoag224s7gmknr4ebiu4ocgl3h33lc4ieq.ipfs.infura-ipfs.io/"
+  olink: "https://bafybeiheglym6s4luoxymxtksoag224s7gmknr4ebiu4ocgl3h33lc4ieq.ipfs.infura-ipfs.io/"
+  mlink: "https://versum.xyz/token/versum/17824"
+  words: "1 frame @GibberishUmbra 22073"
+  #on2nd
+  tagdt: "22073"
+  speci: Versum
+  maker: Gibberish Umbra
+  
+g019b:
+  title: "Mental Blind Spot - Rectangle"
+  ilink: "https://bafybeidarkpkqss7cf6lbasrudlq6cpqvzqjyqu6eolh7etc26mglghoxi.ipfs.infura-ipfs.io/"
+  olink: "https://bafybeidarkpkqss7cf6lbasrudlq6cpqvzqjyqu6eolh7etc26mglghoxi.ipfs.infura-ipfs.io/"
+  mlink: "https://versum.xyz/token/versum/17821"
+  words: "1 frame @GibberishUmbra 22073"
+  #on2nd
+  tagdt: "22073"
+  speci: Versum
+  maker: Gibberish Umbra
+
+g019c:
+  title: "Mental Blind Spot - Circle"
+  ilink: "https://bafybeiarn52gxsha7bp5kr3h2i722vmoo2s4jkxq67u2eu6xuj72cocvmq.ipfs.infura-ipfs.io/"
+  olink: "https://bafybeiarn52gxsha7bp5kr3h2i722vmoo2s4jkxq67u2eu6xuj72cocvmq.ipfs.infura-ipfs.io/"
+  mlink: "https://versum.xyz/token/versum/17818"
+  words: "1 frame @GibberishUmbra 22073"
+  #on2nd
+  tagdt: "22073"
+  speci: Versum
+  maker: Gibberish Umbra
+  
+g020a:
+  title: "Rust Palette"
+  ilink: "/images/showcase/shikakus/rust-med.png"
+  olink: "/images/showcase/shikakus/rust-med.png"
+  mlink: "https://8x8.teztok.com/token/5363"
+  words: "1 frame @GibberishUmbra 2022 mar 24"
+  #on2nd
+  tagdt: "22084"
+  speci: taco
+  maker: Gibberish Umbra
+    
+g020b:
+  title: "Moss Palette"
+  ilink: "/images/showcase/shikakus/moss-med.gif"
+  olink: "/images/showcase/shikakus/moss-med.gif"
+  mlink: "https://8x8.teztok.com/token/12036"
+  words: "1 frame @GibberishUmbra 2022 mar 30"
+  #on2nd
+  tagdt: "22090"
+  speci: taco
+  maker: Gibberish Umbra   
+    
+    
+    
+    
+g022a:
+  title: "Gabriella House"
+  ilink: "/images/showcase/shikakus/01_Gabriella-2080.gif"
+  olink: "/images/showcase/shikakus/01_Gabriella-2080.gif"
+  mlink: "/images/showcase/shikakus/01_Gabriella-2080.gif"
+  words: "Golbriszees #1"
   #on2nd
   tagdt: 22092
   speci: north
   maker: Gibberish Umbra
   
-g023:
-  title: "Gustavo"
-  ilink: "/images/showcase/shikakus/02_Gustavo-1000.gif"
-  olink: #ipfs, etc.,
-  mlink: #versum, etc.,
+g022b:
+  title: "Gustavo House"
+  ilink: "/images/showcase/shikakus/02_Gustavo-2080.gif"
+  olink: "/images/showcase/shikakus/02_Gustavo-2080.gif"
+  mlink: "/images/showcase/shikakus/02_Gustavo-2080.gif"
   words:  "Golbriszee #2"
   #on2nd
   tagdt:
   speci: north
   maker: Gibberish Umbra
 
-g024:
-  title: "Genevie - House of Golbriszees #3"
-  ilink: "/images/showcase/shikakus/03_Genevie-1000.gif"
-  olink: "/images/showcase/shikakus/03_Genevie-1000.gif"
-  mlink: "/images/showcase/shikakus/03_Genevie-1000.gif"
-  words: "I really wanted to on this one. I did."
+g022c:
+  title: "Genevie House"
+  ilink: "/images/showcase/shikakus/03_Genevie-2080.gif"
+  olink: "/images/showcase/shikakus/03_Genevie-2080.gif"
+  mlink: "/images/showcase/shikakus/03_Genevie-2080.gif"
+  words: "Golbriszees #3"
   #on2nd
   tagdt:
   speci: north
   maker: Gibberish Umbra
 
-g025:
-  title: "Gary - House of Golbriszees #4"
-  ilink: "/images/showcase/shikakus/04_Gary-1000.gif"
-  olink: #ipfs, etc.,
-  mlink: #versum, etc.,
-  words: oh
+g022d:
+  title: "Gary House"
+  ilink: "/images/showcase/shikakus/04_Gary-2080.gif"
+  olink: "/images/showcase/shikakus/04_Gary-2080.gif"
+  mlink: "/images/showcase/shikakus/04_Gary-2080.gif"
+  words: "Golbriszees #4"
   #on2nd
   tagdt:
   speci: north
   maker: 
 
-g026:
-  title: "Guiseppe - House of Golbriszees #5"
-  ilink: "/images/showcase/shikakus/05_Guiseppe-1000.gif"
-  olink: #ipfs, etc.,
-  mlink: #versum, etc.,
-  words: #description
+g022e:
+  title: "Guiseppe House"
+  ilink: "/images/showcase/shikakus/05_Guiseppe-2080.gif"
+  olink: "/images/showcase/shikakus/05_Guiseppe-2080.gif"
+  mlink: "/images/showcase/shikakus/05_Guiseppe-2080.gif"
+  words: "Golbriszees #5"
   #on2nd
   tagdt:
   speci: north
   maker: 
 
-
-g027:
-  title: "Gilroy - House of Golbriszees #6"
-  ilink: "/images/showcase/shikakus/06_Gilroy-1000.gif"
-  olink: #ipfs, etc.,
-  mlink: #versum, etc.,
-  words: #description
-  #on2nd
-  tagdt:
-  speci: north
-  maker: 
-
-
-g028:
-  title: "Gayle - House of Golbriszees #7"
-  ilink: "/images/showcase/shikakus/07_Gayle-1000.gif"
-  olink: #ipfs, etc.,
-  mlink: #versum, etc.,
-  words: #description
+g022f:
+  title: "Gilroy House"
+  ilink: "/images/showcase/shikakus/06_Gilroy-2080.gif"
+  olink: "/images/showcase/shikakus/06_Gilroy-2080.gif"
+  mlink: "/images/showcase/shikakus/06_Gilroy-2080.gif"
+  words: "Golbriszees #6"
   #on2nd
   tagdt:
   speci: north
   maker: 
 
 
-g029:
-  title: "Gracie - House of Golbriszees #8"
-  ilink: "/images/showcase/shikakus/08_Gracie-1000.gif"
-  olink: #ipfs, etc.,
-  mlink: #versum, etc.,
-  words: #description
+g022g:
+  title: "Gayle House"
+  ilink: "/images/showcase/shikakus/07_Gayle-2080.gif"
+  olink: "/images/showcase/shikakus/07_Gayle-2080.gif"
+  mlink: "/images/showcase/shikakus/07_Gayle-2080.gif"
+  words: "Golbriszees #7"
   #on2nd
   tagdt:
   speci: north
   maker: 
 
 
-g030:
-  title: "Ginny - House of Golbriszees #9"
-  ilink: "/images/showcase/shikakus/09_Ginny-1000.gif"
-  olink: #ipfs, etc.,
-  mlink: #versum, etc.,
-  words: #description
+g022h:
+  title: "Gracie House"
+  ilink: "/images/showcase/shikakus/08_Gracie-2080.gif"
+  olink: "/images/showcase/shikakus/08_Gracie-2080.gif"
+  mlink: "/images/showcase/shikakus/08_Gracie-2080.gif"
+  words: "Golbriszees #8"
   #on2nd
   tagdt:
   speci: north
   maker: 
 
 
-g031:
-  title: "Gunther - House of Golbriszees #10"
-  ilink: "/images/showcase/shikakus/10_Gunther.gif"
-  olink: #ipfs, etc.,
-  mlink: #versum, etc.,
-  words: #description
+g022i:
+  title: "Ginny House"
+  ilink: "/images/showcase/shikakus/09_Ginny-2080.gif"
+  olink: "/images/showcase/shikakus/09_Ginny-2080.gif"
+  mlink: "/images/showcase/shikakus/09_Ginny-2080.gif"
+  words: "Golbriszees #9"
   #on2nd
   tagdt:
   speci: north
   maker: 
 
 
-g032:
-  title: "Grayson - House of Golbriszees #11"
-  ilink: "/images/showcase/shikakus/11_Grayson-1000.gif"
-  olink: #ipfs, etc.,
-  mlink: #versum, etc.,
-  words: #description
+g022j:
+  title: "Gunther House"
+  ilink: "/images/showcase/shikakus/10_Gunther-2080.gif"
+  olink: "/images/showcase/shikakus/10_Gunther-2080.gif"
+  mlink: "/images/showcase/shikakus/10_Gunther-2080.gif"
+  words: "Golbriszees #10"
+  #on2nd
+  maker: 
+  tagdt:
+  speci: north
+  maker: 
+
+
+g022k:
+  title: "Grayson House"
+  ilink: "/images/showcase/shikakus/11_Grayson-2080.gif"
+  olink: "/images/showcase/shikakus/11_Grayson-2080.gif"
+  mlink: "/images/showcase/shikakus/11_Grayson-2080.gif"
+  words: "Golbriszees #11"
   #on2nd
   tagdt:
   speci: north
   maker: 
 
 
-g033:
-  title: "Guillermo - House of Golbriszees #12"
-  ilink: "/images/showcase/shikakus/12_Guillermo-1000.gif"
-  olink: #ipfs, etc.,
-  mlink: #versum, etc.,
-  words: #description
+g022l:
+  title: "Guillermo House"
+  ilink: "/images/showcase/shikakus/12_Guillermo-2080.gif"
+  olink: "/images/showcase/shikakus/12_Guillermo-2080.gif"
+  mlink: "/images/showcase/shikakus/12_Guillermo-2080.gif"
+  words: "Golbriszees #11"
   #on2nd
   tagdt:
   speci: north
   maker: 
 
 
-g034:
-  title: "Gretta - House of Golbriszees #13"
-  ilink: "/images/showcase/shikakus/13_Gretta-1000.gif"
-  olink: #ipfs, etc.,
-  mlink: #versum, etc.,
-  words: #description
+g022m:
+  title: "Gretta House"
+  ilink: "/images/showcase/shikakus/13_Gretta-2080.gif"
+  olink: "/images/showcase/shikakus/13_Gretta-2080.gif"
+  mlink: "/images/showcase/shikakus/13_Gretta-2080.gif"
+  words: "Golbriszees #13"
   #on2nd
   tagdt:
   speci: north
   maker: 
 
 
-g035:
-  title: "Giannis - House of Golbriszees #14"
-  ilink: "/images/showcase/shikakus/14_Giannis-1000.gif"
-  olink: #ipfs, etc.,
-  mlink: #versum, etc.,
-  words: #description
+g022n:
+  title: "Giannis House"
+  ilink: "/images/showcase/shikakus/14_Giannis-2080.gif"
+  olink: "/images/showcase/shikakus/14_Giannis-2080.gif"
+  mlink: "/images/showcase/shikakus/14_Giannis-2080.gif"
+  words: "Golbriszees #14"
   #on2nd
   tagdt:
   speci: north
   maker: 
 
 
-g036:
-  title: "Gwendolyn - House of Golbriszees #15"
-  ilink: "/images/showcase/shikakus/15_Gwendolyn-1000.gif"
-  olink: #ipfs, etc.,
-  mlink: #versum, etc.,
-  words: #description
+g022o:
+  title: "Gwendolyn House"
+  ilink: "/images/showcase/shikakus/15_Gwendolyn-2080.gif"
+  olink: "/images/showcase/shikakus/15_Gwendolyn-2080.gif"
+  mlink: "/images/showcase/shikakus/15_Gwendolyn-2080.gif"
+  words: "Golbriszees #15"
   #on2nd
   tagdt:
   speci: north
   maker: 
 
 
-g037:
-  title: "Geoff - House of Golbriszees #16"
-  ilink: "/images/showcase/shikakus/16_Geoff-1000.gif"
-  olink: #ipfs, etc.,
-  mlink: #versum, etc.,
-  words: #description
+g022p:
+  title: "Geoff House"
+  ilink: "/images/showcase/shikakus/16_Geoff-2080.gif"
+  olink: "/images/showcase/shikakus/16_Geoff-2080.gif"
+  mlink: "/images/showcase/shikakus/16_Geoff-2080.gif"
+  words: "Golbriszees #16"
   #on2nd
   tagdt:
   speci: north
-  maker: 
-

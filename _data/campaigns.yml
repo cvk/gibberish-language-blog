@@ -2,35 +2,73 @@
   title: "The House of Golbriszees"
   dlink: "https://"
   nfts:
-    - ref: g022
-    - ref: g023
-    - ref: g024
-    - ref: g025
-    - ref: g026
-    - ref: g027
-    - ref: g028
-    - ref: g029
-    - ref: g030
-    - ref: g031
-    - ref: g032
-    - ref: g033
-    - ref: g034
-    - ref: g035
-    - ref: g036
-    - ref: g037
+    - ref: g022a
+    - ref: g022b
+    - ref: g022c
+    - ref: g022d
+    - ref: g022e
+    - ref: g022f
+    - ref: g022g
+    - ref: g022h
+    - ref: g022i
+    - ref: g022j
+    - ref: g022k
+    - ref: g022l
+    - ref: g022m
+    - ref: g022n
+    - ref: g022o
+    - ref: g022p
   markets: 
     - ref: taco
 
 01:
   title: "The 7 Principles"
   nfts:
-    - ref:
-    - ref:
-    - ref:
-    - ref:
-    - ref:
-    - ref:
-    - ref:
+    - ref: g013
+    - ref: g014
+    - ref: g015
+    - ref: g016
+    - ref: g018
+#   - ref:
+#   - ref:
   markets:
     - ref: versum
-    - ref:
+    
+02:
+  title: "Mental Blind Spots"
+  nfts:
+    - ref: g019a
+    - ref: g019b
+    - ref: g019c
+  markets:
+    - ref: versum
+    
+03:
+  title: "Lunch Clouds"
+  nfts:
+    - ref: g019a
+    - ref: g019b
+    - ref: g019c
+  markets:
+    - ref: versum
+    
+04:
+  title: "Experimental Vectors"
+  nfts:
+    - ref: g001
+    - ref: g003
+    - ref: g004
+    - ref: g008
+  markets:
+    - ref: mintbase
+    - ref: hen
+    
+05:
+  title: "Palettes & Tools"
+  nfts:
+    - ref: g009
+    - ref: g020a
+    - ref: g020b
+  markets:
+    - ref: taco
+#   - ref: hen

@@ -1,32 +1,24 @@
-
 <head>
-    
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#0055FF"/>
 {%- feed_meta -%}
-    
 <link rel="stylesheet" href="/assets/main.css">
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="shortcut icon" type="image/x-icon" href="{{ /favicon.ico | relative_url }}">
 <link rel="manifest" href="{{ /site.manifest-json | relative_url }}">
-    
 {%- if jekyll.environment == 'production' and site.google_analytics -%}
-    {%- include google-analytics.html -%}
+{%- include google-analytics.html -%}
 {%- endif -%}
-    
 {%- seo -%}
-
 {% if page.title %}
-    {% if page.jsonld %}
-        {% include {{page.jsonld}}.html %}
-    {% else %}
-        {% include postJSONLD.html %}
-    {% endif %}
+{% if page.jsonld %}
+{% include {{page.jsonld}}.html %}
 {% else %}
-    {% include homeJSONLD.html %}
+{% include postJSONLD.html %}
 {% endif %}
-    
+{% else %}
+{% include homeJSONLD.html %}
+{% endif %}
 </head>
-  
