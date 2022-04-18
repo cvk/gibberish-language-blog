@@ -64,6 +64,29 @@ g005:
   speci: 
   maker: Gibberish Umbra
   
+g006a:
+  title: "Lunch Clouds"
+  ilink: "/images/showcase/hicetnunc/lunch-clouds-QmSWRQAzk4XM9bLKC9gufaKV7ZoFqjkyGdNuXLcz6YdAZo.gif"
+  olink: "https://ipfs.io/ipfs/QmSWRQAzk4XM9bLKC9gufaKV7ZoFqjkyGdNuXLcz6YdAZo"
+  mlink: "https://teia.art/objkt/463283"
+  words: "Designed for moments of reflection."
+  #on2nd
+  tagdt: "October 23, 2021"
+  speci: 
+  maker: Gibberish Umbra
+
+g006b:
+  title: "Lunch Clouds II"
+  ilink: "/images/showcase/hicetnunc/lunch-clouds-ii-QmWNoNLYs14wHcUvdec6caQ9yHuR6aDuwdUSL9XL48Qhev.jpeg"
+  olink: "https://QmWNoNLYs14wHcUvdec6caQ9yHuR6aDuwdUSL9XL48Qhev.ipfs.infura-ipfs.io/"
+  mlink: "https://teia.art/objkt/706960"
+  words: "Designed for moments of reflection."
+  #on2nd
+  tagdt: "March 28, 2022 22087"
+  speci: 
+  maker: Gibberish Umbra
+
+
 g007:
   title: "Rainbow Puffs"
   ilink: "/images/showcase/hicetnunc/21304-rainbow-puffs.jpeg"

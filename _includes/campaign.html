@@ -9,12 +9,13 @@
 {% for nfts in campaign.nfts %}
 {% assign artwork = site.data.nfts[nfts.ref] %}
 <div class="c-art__showbox">
-<figure class="c-art__title2">
+<figure id="{{ artwork.title | truncate: 4, '''' }}" class="c-art__title2">
   {{ artwork.title }}
   <a href="{{ artwork.mlink }}">
   <img class="c-art__img" src="{{ artwork.ilink }}" alt="Link to {{ artwork.title }}"/>
   </a>
 </figure>
 </div>
+<a href="#top"> .</a>
 {% endfor%}
 </div>

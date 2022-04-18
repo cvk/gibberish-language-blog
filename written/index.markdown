@@ -1,5 +1,5 @@
 ---
 layout: written
-title: Written
+title: elucidation
 navworthy: true
 ---
