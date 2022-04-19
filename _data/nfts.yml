@@ -125,7 +125,7 @@ g013:
   ilink: "https://bafybeicwmqyucyaptimb6hhdttrquazctvol6vqimwp5ejmnpgoda4ou7u.ipfs.infura-ipfs.io/"
   olink: "https://bafybeicwmqyucyaptimb6hhdttrquazctvol6vqimwp5ejmnpgoda4ou7u.ipfs.infura-ipfs.io/"
   mlink: "https://versum.xyz/token/versum/12961"
-  words: "72 frames @GibberishUmbra 22041"
+  words: "The Principle of Mentalism. 72 frames @GibberishUmbra 22041"
   #on2nd
   tagdt: "22041"
   speci: Versum
@@ -228,6 +228,17 @@ g020b:
   #on2nd
   tagdt: "22090"
   speci: taco
+  maker: Gibberish Umbra  
+  
+g021:
+  title: "Vibratory Motion Still"
+  ilink: "/images/showcase/versum/motion-still.png"
+  olink: "/images/showcase/versum/motion-still.png"
+  mlink: "https://versum.xyz/token/versum/21575"
+  words: "1 frame @GibberishUmbra 22108"
+  #on2nd
+  tagdt: "22108"
+  speci: Versum
   maker: Gibberish Umbra   
     
     
