@@ -429,3 +429,27 @@ g022p:
   #on2nd
   tagdt:
   speci: north
+
+g023:
+  title: "Truth Event"
+  ilink: "https://bafybeie77gtprhzeq4wni35pc4ql34q74tuyjjmsk3hqds4adts24pa2qa.ipfs.infura-ipfs.io/"
+  olink: "https://bafybeie77gtprhzeq4wni35pc4ql34q74tuyjjmsk3hqds4adts24pa2qa.ipfs.infura-ipfs.io/"
+  mlink: "https://versum.xyz/token/versum/22684"
+  words: "The Principle of Cause and Effect. 1 frame @GibberishUmbra 22123"
+  #on2nd
+  tagdt: "22123"
+  speci: Versum
+  maker: Gibberish Umbra
+  
+g024:
+
+g025:
+  title: "Damage"
+  ilink: "/images/showcase/versum/damage.svg"
+  olink: "https://bafybeie2ylf2ljixosfhxqqxam6254pfdgoe3adgdzq4gt2zdeohir5gb4.ipfs.infura-ipfs.io/"
+  mlink: "https://versum.xyz/token/versum/21961"
+  words: "Damage. 1 frame @GibberishUmbra 22113"
+  #on2nd
+  tagdt: "22113"
+  speci: Versum
+  maker: Gibberish Umbra

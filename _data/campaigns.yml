@@ -24,13 +24,13 @@
 01:
   title: "The 7 Principles"
   nfts:
+    - ref: g023
     - ref: g021
     - ref: g013
     - ref: g014
     - ref: g015
     - ref: g016
     - ref: g018
-#   - ref:
   markets:
     - ref: versum
     
