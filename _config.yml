@@ -87,9 +87,9 @@ header_pages:
 # - about.markdown
 # - social.md
   - index.markdown
-  - channel/index.markdown
-  - podcast/index.markdown
-  - written/index.markdown
+# - channel/index.markdown
+# - podcast/index.markdown
+# - written/index.markdown
   - art3/index.markdown
 # - twitter.md
 
