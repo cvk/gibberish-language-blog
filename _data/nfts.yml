@@ -208,6 +208,17 @@ g019c:
   speci: Versum
   maker: Gibberish Umbra
   
+g019d:
+  title: "Mental Blind Spot - Triangle"
+  ilink: "https://bafybeibglkvosemw6roxejmdprrqov4lxwvigzp3ypzkaxy6celr3xe6qq.ipfs.infura-ipfs.io/"
+  olink: "https://bafybeibglkvosemw6roxejmdprrqov4lxwvigzp3ypzkaxy6celr3xe6qq.ipfs.infura-ipfs.io/"
+  mlink: "https://versum.xyz/token/versum/22875"
+  words: "1 frame @GibberishUmbra 22125"
+  #on2nd
+  tagdt: "22125"
+  speci: Versum
+  maker: Gibberish Umbra
+  
 g020a:
   title: "Rust Palette"
   ilink: "/images/showcase/shikakus/rust-med.png"

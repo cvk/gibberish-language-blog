@@ -37,9 +37,10 @@
 02:
   title: "Mental Blind Spots"
   nfts:
-    - ref: g019a
-    - ref: g019b
+    - ref: g019d
     - ref: g019c
+    - ref: g019b
+    - ref: g019a
   markets:
     - ref: versum
     
