@@ -1,5 +1,5 @@
 ---
 layout: channel
 title: Channel
-navworthy: true
+navworthy: false
 ---
