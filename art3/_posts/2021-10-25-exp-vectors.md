@@ -23,7 +23,4 @@ title: "Experimental Vectors" #page link & bookmark name & rank
 campaign: 04
 #nft: g002
 ---
->>Just some words.  
-Some more.  
->new
 {% include campaign.html %}
