@@ -23,7 +23,4 @@ title: "Lunch Clouds" #page link & bookmark name & rank
 campaign: 03
 #nft: g002
 ---
->>Just some words.  
-Some more.  
->new
 {% include campaign.html %}

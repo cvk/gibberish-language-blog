@@ -23,7 +23,4 @@ title: "The 7 Principles" #page link & bookmark name & rank
 campaign: 01
 #nft: g002
 ---
->>Just some words.  
-Some more.  
->new
 {% include campaign.html %}
