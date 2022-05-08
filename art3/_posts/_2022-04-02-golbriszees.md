@@ -35,7 +35,7 @@ campaign: 00
 [![](/images/showcase/shikakus/10_Gunther.gif)](#Gunt "Gunther House")
 [![](/images/showcase/shikakus/11_Grayson.gif)](#Gray "Grayson House")
 [![](/images/showcase/shikakus/12_Guillermo.gif)](#Guil "Guillermo House")
-[![](/images/showcase/shikakus/13_Gretta.gif)](#Gret "Gretta House")
+[![](/images/showcase/shikakus/13_Gretchen.gif)](#Gret "Gretchen House")
 [![](/images/showcase/shikakus/14_Giannis.gif)](#Gian "Giannis House")
 [![](/images/showcase/shikakus/15_Gwendolyn.gif)](#Gwen "Gwendolyn House")
 [![](/images/showcase/shikakus/16_Geoff.gif)](#Geof "Geoff House")
