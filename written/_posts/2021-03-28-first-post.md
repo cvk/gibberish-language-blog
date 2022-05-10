@@ -22,6 +22,4 @@ date: 2021-03-28 11:23:50 -0700
 ---
 <h3 class="post-title">{{ page.title | escape }}</h3>
 <h4 class="post-title">{{ page.summary | escape }}</h4><br>
-[![Experimental Media](/images/written-as-imaged/we-signed-up-for-this.jpg)](https://gibberish.cyou "Gibberish Language Version Soon...")
-
-[Gibberish Language version](http://gibberish.cyou) soon...
+[![Experimental Media](/images/written-as-imaged/we-signed-up-for-this.jpg)](https://gibberish.cyou "handwritten")   
