@@ -475,3 +475,14 @@ g026:
   tagdt: "22127"
   speci: Versum
   maker: Gibberish Umbra
+  
+g028:
+  title: "Paenitantia (Penitence)"
+  ilink: "/images/showcase/versum/penitence-8192.gif"
+  olink: "/images/showcase/versum/penitence-8192.gif"
+  mlink: "/images/showcase/versum/penitence-8192.gif"
+  words: "Paenitantia (Penitence). 1 frame @GibberishUmbra 22133"
+  #on2nd
+  tagdt: "22133"
+  speci: Versum
+  maker: Gibberish Umbra
