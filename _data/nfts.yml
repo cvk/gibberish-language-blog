@@ -477,11 +477,11 @@ g026:
   maker: Gibberish Umbra
   
 g028:
-  title: "Paenitantia (Penitence)"
+  title: "Penitence (Paenitentia)"
   ilink: "/images/showcase/versum/penitence-8192.gif"
-  olink: "/images/showcase/versum/penitence-8192.gif"
-  mlink: "/images/showcase/versum/penitence-8192.gif"
-  words: "Paenitantia (Penitence). 1 frame @GibberishUmbra 22133"
+  olink: "https://bafybeibu54drtlj62xsjsjg5gj7qlv7vysbh5xziowzv6sl2unzy3gwzay.ipfs.infura-ipfs.io/"
+  mlink: "https://versum.xyz/token/versum/23338"
+  words: "1 frame @GibberishUmbra 22133 - Abstract Vector Caricature of Unknown 14th Century Slayer."
   #on2nd
   tagdt: "22133"
   speci: Versum
