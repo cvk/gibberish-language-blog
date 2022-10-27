@@ -41,7 +41,7 @@ campaign: 00
 [![](/images/showcase/shikakus/16_Geoff.gif)](#Geof "Geoff House")
 
 Dedicated to the Spirit of Collecting and Digital Art Curation, sixteen silly, on-chain, non-generative, animated sprites were hand-crafted to bring joy directly to the clean Tezos Blockchain. These Houses hold Cabinets of Curiosities. The preview (first) frame is Standard NFT License while the other 3 frames are licensed cc0. All without support. 16 Editions of 16 Houses, sized 16px Square. Inspiration: Suzanna "Gol"d, Hans Ulrich O"bris"t, & Harald "Szee"mann, curators. What art-style or movement will your House declare? Quid stylus aut motus eliges in discordia?
-<br>
+<br><br>
 
 Q1: What are they? ... blobs, heads, monsters, skulls, ghosts, aliens? 
 
@@ -49,7 +49,7 @@ Q1: What are they? ... blobs, heads, monsters, skulls, ghosts, aliens?
 
 Q2: Any more coming? What are the plans for these?
 
->The House of Golbriszees ~~opened~~ to celebrate friendships and connections made collecting, sharing, displaying, and admiring digital art. It is my hope they will be sought by collector/curators as it was created to celebrate them. 
+>The House of Golbriszees opened to celebrate friendships and connections made collecting, sharing, displaying, and admiring digital art. It is my hope they will be sought by collector/curators as it was created to celebrate them. 
 
 Q3: Why not 1/1's?
 
