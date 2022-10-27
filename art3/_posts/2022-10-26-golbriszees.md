@@ -23,6 +23,8 @@ title: "The House of Golbriszees" #page link & bookmark name & rank
 campaign: 00
 
 ---
+[![](/assets/discord-logo-2022.svg)](https://discord.gg/ydUfmP9ave "Discord Link")
+<br><br>
 [![](/images/showcase/shikakus/01_Gabriella.gif)](#Gabr "Gabriella House")
 [![](/images/showcase/shikakus/02_Gustavo.gif)](#Gust "Gustavo House")
 [![](/images/showcase/shikakus/03_Genevie.gif)](#Gene "Genevie House")
@@ -38,7 +40,7 @@ campaign: 00
 [![](/images/showcase/shikakus/13_Gretchen.gif)](#Gret "Gretchen House")
 [![](/images/showcase/shikakus/14_Giannis.gif)](#Gian "Giannis House")
 [![](/images/showcase/shikakus/15_Gwendolyn.gif)](#Gwen "Gwendolyn House")
-[![](/images/showcase/shikakus/16_Geoff.gif)](#Geof "Geoff House")
+[![](/images/showcase/shikakus/16_Geoff.gif)](#Geof "Geoff House") < Jump
 
 Dedicated to the Spirit of Collecting and Digital Art Curation, sixteen silly, on-chain, non-generative, animated sprites were hand-crafted to bring joy directly to the clean Tezos Blockchain. These Houses hold Cabinets of Curiosities. The preview (first) frame is Standard NFT License while the other 3 frames are licensed cc0. All without support. 16 Editions of 16 Houses, sized 16px Square. Inspiration: Suzanna "Gol"d, Hans Ulrich O"bris"t, & Harald "Szee"mann, curators. What art-style or movement will your House declare? Quid stylus aut motus eliges in discordia?
 <br>
