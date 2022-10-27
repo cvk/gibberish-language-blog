@@ -5,10 +5,10 @@ layout: page # default/home/page/post/channel/podcast/written/exit
 ##HIDDEN SEO
 categories: golbriszees #.html custom-seo-in-url
 permalink: /:categories #url
-description: A place for words #open graph
-excerpt: Suspected Enlightenment #structured
-ogimage: "https://img.youtube.com/vi/mUCuTO-vktc/0.jpg" #
-image: "https://img.youtube.com/vi/mUCuTO-vktc/0.jpg" #
+description: House of Golbriszees Curators Collection #open graph
+excerpt: Tezos On-Chain Animation is here!  #structured
+ogimage: "https://gibberish.cyou/assets/golbriszees-ad1-8x8-2080.gif" #
+image: "https://gibberish.cyou/assets/golbriszees-ad1-8x8-2080.gif" #
 
 ##DISPLAYED SEO
 marquee-words: camp0 #h1
