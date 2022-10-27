@@ -19,7 +19,7 @@
     - ref: g022o
     - ref: g022p
   markets: 
-    - ref: taco
+    - ref: taco-anim
 
 01:
   title: "The 7 Principles"

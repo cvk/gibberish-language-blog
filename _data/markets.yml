@@ -28,3 +28,9 @@ mintbase:
   clink: ""
   token: "$near"
   
+taco-anim:
+  title: "9bidou"
+  alink: "https://9bidou.com/creations/tz1LenXMgcm2GKWjSoFt5TAVwfpSW4Czj5Qo"
+  clink: "https://9bidou.com/creations/tz1LenXMgcm2GKWjSoFt5TAVwfpSW4Czj5Qo"
+  token: "$xtz"
+  
