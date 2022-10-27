@@ -43,7 +43,6 @@ campaign: 00
 Dedicated to the Spirit of Collecting and Digital Art Curation, sixteen silly, on-chain, non-generative, animated sprites were hand-crafted to bring joy directly to the clean Tezos Blockchain. These Houses hold Cabinets of Curiosities. The preview (first) frame is Standard NFT License while the other 3 frames are licensed cc0. All without support. 16 Editions of 16 Houses, sized 16px Square. Inspiration: Suzanna "Gol"d, Hans Ulrich O"bris"t, & Harald "Szee"mann, curators. What art-style or movement will your House declare? Quid stylus aut motus eliges in discordia?
 <br>
 
-
 Q1: What are they? ... blobs, heads, monsters, skulls, ghosts, aliens? 
 
 >They're intentionally ambiguous.
