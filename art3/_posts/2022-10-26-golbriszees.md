@@ -29,7 +29,7 @@ campaign: 00
 [![](/images/showcase/shikakus/02_Gustavo.gif)](#Gust "Gustavo House")
 [![](/images/showcase/shikakus/03_Genevie.gif)](#Gene "Genevie House")
 [![](/images/showcase/shikakus/04_Gary.gif)](#Gary "Gary House")
-[![](/images/showcase/shikakus/05_Guiseppe.gif)](#Guis "Guiseppe House")
+[![](/images/showcase/shikakus/05_Guiseppe.gif)](#Gius "Giuseppe House")
 [![](/images/showcase/shikakus/06_Gilroy.gif)](#Gilr "Gilroy House")
 [![](/images/showcase/shikakus/07_Gayle.gif)](#Gayl "Gayle House")
 [![](/images/showcase/shikakus/08_Gracie.gif)](#Grac "Gracie House")
