@@ -18,7 +18,7 @@
     - ref: g022n
     - ref: g022o
     - ref: g022p
-  markets: 
+  markets:
     - ref: taco-anim
 
 01:
@@ -33,7 +33,7 @@
     - ref: g018
   markets:
     - ref: versum
-    
+
 02:
   title: "Mental Blind Spots"
   nfts:
@@ -43,7 +43,7 @@
     - ref: g019a
   markets:
     - ref: versum
-    
+
 03:
   title: "Lunch Clouds"
   nfts:
@@ -51,7 +51,7 @@
     - ref: g006a
   markets:
     - ref: hen
-    
+
 04:
   title: "Experimental Vectors"
   nfts:
@@ -62,7 +62,7 @@
   markets:
     - ref: mintbase
     - ref: hen
-    
+
 05:
   title: "Palettes & Tools"
   nfts:

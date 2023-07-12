@@ -3,13 +3,13 @@ hen:
   alink: "https://teia.art/gibberish-umbra"
   clink: "https://teia.art/gibberish-umbra/collection"
   token: "$xtz"
-  
+
 versum:
   title: "versum.xyz"
   alink: "https://versum.xyz/user/tz1LenXMgcm2GKWjSoFt5TAVwfpSW4Czj5Qo/created"
   clink: "https://versum.xyz/user/tz1LenXMgcm2GKWjSoFt5TAVwfpSW4Czj5Qo/owned"
   token: "$xtz"
-  
+
 objktcom:
   title: "objkt.com"
   alink: "https://objkt.com/profile/gibberish/created"
@@ -21,16 +21,15 @@ taco:
   alink: "https://8x8.teztok.com/user/tz1LenXMgcm2GKWjSoFt5TAVwfpSW4Czj5Qo"
   clink: "https://8x8.teztok.com/user/tz1LenXMgcm2GKWjSoFt5TAVwfpSW4Czj5Qo"
   token: "$xtz"
-  
+
 mintbase:
   title: "mintbase"
   alink: ""
   clink: ""
   token: "$near"
-  
+
 taco-anim:
   title: "9bidou"
   alink: "https://9bidou.com/creations/tz1LenXMgcm2GKWjSoFt5TAVwfpSW4Czj5Qo"
   clink: "https://9bidou.com/creations/tz1LenXMgcm2GKWjSoFt5TAVwfpSW4Czj5Qo"
   token: "$xtz"
-  

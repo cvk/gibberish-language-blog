@@ -5,7 +5,7 @@ g000:
   mlink: /gibberish-umbra-512-icon.png
   words: "Version 1"
   #on2nd
-  tagdt: 
+  tagdt:
   speci: north
   maker: Gibberish Umbra
 
@@ -17,9 +17,9 @@ g001:
   words: "Early Mintbase work."
   #on2nd
   tagdt: ""
-  speci: 
+  speci:
   maker: Gibberish Umbra
-  
+
 g002:
   title: "In and Of Itself Equals Eye"
   ilink: "/images/showcase/mintbase/in-and-of-itself-equals-eye.png"
@@ -28,9 +28,9 @@ g002:
   words: "Early Mintbase work."
   #on2nd
   tagdt:
-  speci: 
+  speci:
   maker: Gibberish Umbra
-  
+
 g003:
   title: "New Ieleia"
   ilink: "/images/showcase/mintbase/GIB003.png"
@@ -39,9 +39,9 @@ g003:
   words: "Early Mintbase work."
   #on2nd
   tagdt:
-  speci: 
+  speci:
   maker: Gibberish Umbra
-  
+
 g004:
   title: "Exquizitrone"
   ilink: "/images/showcase/hicetnunc/exquizitrone.svg"
@@ -50,9 +50,9 @@ g004:
   words: "Early hic et nunc."
   #on2nd
   tagdt:
-  speci: 
+  speci:
   maker: Gibberish Umbra
-  
+
 g005:
   title: "Ecquisitrone"
   ilink: "/images/showcase/hicetnunc/Ecquisitrone.gif"
@@ -61,9 +61,9 @@ g005:
   words: "Early hic et nunc."
   #on2nd
   tagdt: "21289"
-  speci: 
+  speci:
   maker: Gibberish Umbra
-  
+
 g006a:
   title: "Lunch Clouds"
   ilink: "/images/showcase/hicetnunc/lunch-clouds-QmSWRQAzk4XM9bLKC9gufaKV7ZoFqjkyGdNuXLcz6YdAZo.gif"
@@ -72,7 +72,7 @@ g006a:
   words: "Designed for moments of reflection."
   #on2nd
   tagdt: "October 23, 2021"
-  speci: 
+  speci:
   maker: Gibberish Umbra
 
 g006b:
@@ -83,9 +83,8 @@ g006b:
   words: "Designed for moments of reflection."
   #on2nd
   tagdt: "March 28, 2022 22087"
-  speci: 
+  speci:
   maker: Gibberish Umbra
-
 
 g007:
   title: "Rainbow Puffs"
@@ -95,9 +94,9 @@ g007:
   words: "Early hic et nunc."
   #on2nd
   tagdt: "21304"
-  speci: 
+  speci:
   maker: Gibberish Umbra
-  
+
 g008:
   title: "Blue Exclaim"
   ilink: "/images/showcase/hicetnunc/blue-exclaim.svg"
@@ -106,9 +105,9 @@ g008:
   words: "Early hic et nunc."
   #on2nd
   tagdt: "21311"
-  speci: 
+  speci:
   maker: Gibberish Umbra
-  
+
 g009:
   title: "Black & White Film Palette"
   ilink: "/images/showcase/unminted/GIB009.gif"
@@ -117,9 +116,9 @@ g009:
   words: "2 color, no dither, unminted. CC0"
   #on2nd
   tagdt: "21318"
-  speci: 
+  speci:
   maker: Gibberish Umbra
-  
+
 g013:
   title: "All is Mind"
   ilink: "https://bafybeicwmqyucyaptimb6hhdttrquazctvol6vqimwp5ejmnpgoda4ou7u.ipfs.infura-ipfs.io/"
@@ -130,7 +129,7 @@ g013:
   tagdt: "22041"
   speci: Versum
   maker: Gibberish Umbra
-  
+
 g014:
   title: "Planes Beyond Knowing"
   ilink: "https://bafybeiac5mrgt2bsce4yyjrdcef5ji2ng7pcg6mkcurcehqrony5it5gqq.ipfs.infura-ipfs.io/"
@@ -141,7 +140,7 @@ g014:
   tagdt: "22041"
   speci: Versum
   maker: Gibberish Umbra
-  
+
 g015:
   title: "Pendulum"
   ilink: "/images/showcase/versum/pendulum-cover-art.jpg"
@@ -152,7 +151,7 @@ g015:
   tagdt: "22021"
   speci: Versum
   maker: Gibberish Umbra
-  
+
 g016:
   title: "Two Poles"
   ilink: "https://ipfs.io/ipfs/bafybeieq72brgjy6muxl4key2fy6t2pmoodofx3mh7rv7u3xmussrlapau/"
@@ -163,7 +162,7 @@ g016:
   tagdt: "22051"
   speci: Versum
   maker: Gibberish Umbra
-  
+
 g018:
   title: "Cauldron of Rainbows"
   ilink: "https://bafybeiajlfioq76bs7by6kpngiicxovi442gnqiwqlmayqnl5ryuxrripa.ipfs.infura-ipfs.io/"
@@ -174,7 +173,7 @@ g018:
   tagdt: "22058"
   speci: Versum
   maker: Gibberish Umbra
-  
+
 g019a:
   title: "Mental Blind Spot - Square"
   ilink: "https://bafybeiheglym6s4luoxymxtksoag224s7gmknr4ebiu4ocgl3h33lc4ieq.ipfs.infura-ipfs.io/"
@@ -185,7 +184,7 @@ g019a:
   tagdt: "22073"
   speci: Versum
   maker: Gibberish Umbra
-  
+
 g019b:
   title: "Mental Blind Spot - Rectangle"
   ilink: "https://bafybeidarkpkqss7cf6lbasrudlq6cpqvzqjyqu6eolh7etc26mglghoxi.ipfs.infura-ipfs.io/"
@@ -207,7 +206,7 @@ g019c:
   tagdt: "22073"
   speci: Versum
   maker: Gibberish Umbra
-  
+
 g019d:
   title: "Mental Blind Spot - Triangle"
   ilink: "https://bafybeibglkvosemw6roxejmdprrqov4lxwvigzp3ypzkaxy6celr3xe6qq.ipfs.infura-ipfs.io/"
@@ -218,7 +217,7 @@ g019d:
   tagdt: "22125"
   speci: Versum
   maker: Gibberish Umbra
-  
+
 g020a:
   title: "Rust Palette"
   ilink: "/images/showcase/shikakus/rust-med.png"
@@ -229,7 +228,7 @@ g020a:
   tagdt: "22084"
   speci: taco
   maker: Gibberish Umbra
-    
+
 g020b:
   title: "Moss Palette"
   ilink: "/images/showcase/shikakus/moss-med.gif"
@@ -239,8 +238,8 @@ g020b:
   #on2nd
   tagdt: "22090"
   speci: taco
-  maker: Gibberish Umbra  
-  
+  maker: Gibberish Umbra
+
 g021:
   title: "Vibratory Motion Still"
   ilink: "/images/showcase/versum/motion-still.png"
@@ -250,11 +249,8 @@ g021:
   #on2nd
   tagdt: "22108"
   speci: Versum
-  maker: Gibberish Umbra   
-    
-    
-    
-    
+  maker: Gibberish Umbra
+
 g022a:
   title: "Gabriella House"
   ilink: "/images/showcase/shikakus/01_Gabriella-2080.gif"
@@ -265,13 +261,13 @@ g022a:
   tagdt: 22092
   speci: taco-anim
   maker: Gibberish Umbra
-  
+
 g022b:
   title: "Gustavo House"
   ilink: "/images/showcase/shikakus/02_Gustavo-2080.gif"
   olink: "/images/showcase/shikakus/02_Gustavo-2080.gif"
   mlink: "https://9bidou.com/item/52"
-  words:  "Golbriszee #2"
+  words: "Golbriszee #2"
   #on2nd
   tagdt:
   speci: taco-anim
@@ -297,7 +293,7 @@ g022d:
   #on2nd
   tagdt:
   speci: taco-anim
-  maker: 
+  maker:
 
 g022e:
   title: "Giuseppe House"
@@ -308,7 +304,7 @@ g022e:
   #on2nd
   tagdt:
   speci: taco-anim
-  maker: 
+  maker:
 
 g022f:
   title: "Gilroy House"
@@ -319,8 +315,7 @@ g022f:
   #on2nd
   tagdt:
   speci: taco-anim
-  maker: 
-
+  maker:
 
 g022g:
   title: "Gayle House"
@@ -331,8 +326,7 @@ g022g:
   #on2nd
   tagdt:
   speci: taco-anim
-  maker: 
-
+  maker:
 
 g022h:
   title: "Gracie House"
@@ -343,8 +337,7 @@ g022h:
   #on2nd
   tagdt:
   speci: taco-anim
-  maker: 
-
+  maker:
 
 g022i:
   title: "Ginny House"
@@ -355,8 +348,7 @@ g022i:
   #on2nd
   tagdt:
   speci: taco-anim
-  maker: 
-
+  maker:
 
 g022j:
   title: "Gunther House"
@@ -365,11 +357,9 @@ g022j:
   mlink: "https://9bidou.com/item/60"
   words: "Golbriszees #10"
   #on2nd
-  maker: 
+  maker:
   tagdt:
   speci: taco-anim
-  maker: 
-
 
 g022k:
   title: "Grayson House"
@@ -380,8 +370,7 @@ g022k:
   #on2nd
   tagdt:
   speci: taco-anim
-  maker: 
-
+  maker:
 
 g022l:
   title: "Guillermo House"
@@ -392,8 +381,7 @@ g022l:
   #on2nd
   tagdt:
   speci: taco-anim
-  maker: 
-
+  maker:
 
 g022m:
   title: "Gretchen House"
@@ -404,8 +392,7 @@ g022m:
   #on2nd
   tagdt:
   speci: taco-anim
-  maker: 
-
+  maker:
 
 g022n:
   title: "Giannis House"
@@ -416,8 +403,7 @@ g022n:
   #on2nd
   tagdt:
   speci: taco-anim
-  maker: 
-
+  maker:
 
 g022o:
   title: "Gwendolyn House"
@@ -428,8 +414,7 @@ g022o:
   #on2nd
   tagdt:
   speci: taco-anim
-  maker: 
-
+  maker:
 
 g022p:
   title: "Geoff House"
@@ -451,7 +436,7 @@ g023:
   tagdt: "22123"
   speci: Versum
   maker: Gibberish Umbra
-  
+
 g024:
 
 g025:
@@ -464,7 +449,7 @@ g025:
   tagdt: "22113"
   speci: Versum
   maker: Gibberish Umbra
-  
+
 g026:
   title: "Bench and Door"
   ilink: "/images/showcase/versum/bench-and-door-sm.jpeg"
@@ -475,7 +460,7 @@ g026:
   tagdt: "22127"
   speci: Versum
   maker: Gibberish Umbra
-  
+
 g028:
   title: "Penitence (Paenitentia)"
   ilink: "/images/showcase/versum/penitence-8192.gif"
