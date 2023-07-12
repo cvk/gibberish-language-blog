@@ -3,7 +3,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -14,10 +14,12 @@
 # in the templates via {{ site.myvariable }}.
 
 livereload: true
+enable_service_worker: false
+service_worker_version: 0.5.0
 
 title: Gibberish Umbra's Non-Fungible Tokens & Experimental Art
 
-tagline:  The idiolect of the Gibberish Language
+tagline: The idiolect of the Gibberish Language
 
 description: Light Around the Shadow of the Gibberish Lexicon.
 
@@ -28,7 +30,7 @@ url: "https://gibberish.cyou" # the base hostname & protocol for your site, e.g.
 
 timezone: America/Los_Angeles
 
-logo: /gibberish-umbra-512-icon.png
+logo: /gibberish-umbra-32-icon.png
 
 email: speak@gibberish.cyou
 youtube_username: channel/UCbhzao2COAXoYIULI4N5acQ
@@ -66,13 +68,12 @@ social:
 
 google_analytics: UA-175444935-1
 
-
 # added built-ins
 author: gibberish.umbra
 
 # add-ins not from jekyll new
 copyright: "SP" #Sole Proprietorship
-title-logo: /gibberish-umbra-512-icon.png
+title-logo: /gibberish-umbra-32-icon.png
 manifest-json: /manifest.json
 
 plugins:
@@ -84,11 +85,11 @@ minima:
   date_format: "%y%j"
 
 header_pages:
-# - about.markdown
-# - social.md
+  # - about.markdown
+  # - social.md
   - index.markdown
-# - channel/index.markdown
-# - podcast/index.markdown
+  # - channel/index.markdown
+  # - podcast/index.markdown
   - written/index.markdown
   - art3/index.markdown
 # - twitter.md
